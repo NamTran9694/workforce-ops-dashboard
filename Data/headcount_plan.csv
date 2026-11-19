@@ -1,0 +1,277 @@
+month,department,planned_headcount
+2023-01-01,Transportation,375
+2023-01-01,Food Production,250
+2023-01-01,Tray Assembly,312
+2023-01-01,Warehouse,100
+2023-01-01,Sanitation,150
+2023-01-01,Office & Management,62
+2023-02-01,Transportation,360
+2023-02-01,Food Production,240
+2023-02-01,Tray Assembly,300
+2023-02-01,Warehouse,96
+2023-02-01,Sanitation,144
+2023-02-01,Office & Management,59
+2023-03-01,Transportation,371
+2023-03-01,Food Production,247
+2023-03-01,Tray Assembly,309
+2023-03-01,Warehouse,99
+2023-03-01,Sanitation,148
+2023-03-01,Office & Management,61
+2023-04-01,Transportation,379
+2023-04-01,Food Production,253
+2023-04-01,Tray Assembly,315
+2023-04-01,Warehouse,101
+2023-04-01,Sanitation,152
+2023-04-01,Office & Management,62
+2023-05-01,Transportation,405
+2023-05-01,Food Production,270
+2023-05-01,Tray Assembly,337
+2023-05-01,Warehouse,108
+2023-05-01,Sanitation,162
+2023-05-01,Office & Management,66
+2023-06-01,Transportation,414
+2023-06-01,Food Production,276
+2023-06-01,Tray Assembly,345
+2023-06-01,Warehouse,110
+2023-06-01,Sanitation,166
+2023-06-01,Office & Management,67
+2023-07-01,Transportation,430
+2023-07-01,Food Production,287
+2023-07-01,Tray Assembly,358
+2023-07-01,Warehouse,115
+2023-07-01,Sanitation,172
+2023-07-01,Office & Management,70
+2023-08-01,Transportation,433
+2023-08-01,Food Production,289
+2023-08-01,Tray Assembly,361
+2023-08-01,Warehouse,116
+2023-08-01,Sanitation,173
+2023-08-01,Office & Management,70
+2023-09-01,Transportation,430
+2023-09-01,Food Production,287
+2023-09-01,Tray Assembly,358
+2023-09-01,Warehouse,115
+2023-09-01,Sanitation,172
+2023-09-01,Office & Management,69
+2023-10-01,Transportation,421
+2023-10-01,Food Production,281
+2023-10-01,Tray Assembly,350
+2023-10-01,Warehouse,112
+2023-10-01,Sanitation,168
+2023-10-01,Office & Management,67
+2023-11-01,Transportation,406
+2023-11-01,Food Production,270
+2023-11-01,Tray Assembly,338
+2023-11-01,Warehouse,108
+2023-11-01,Sanitation,162
+2023-11-01,Office & Management,65
+2023-12-01,Transportation,400
+2023-12-01,Food Production,267
+2023-12-01,Tray Assembly,333
+2023-12-01,Warehouse,107
+2023-12-01,Sanitation,160
+2023-12-01,Office & Management,64
+2024-01-01,Transportation,392
+2024-01-01,Food Production,261
+2024-01-01,Tray Assembly,326
+2024-01-01,Warehouse,105
+2024-01-01,Sanitation,157
+2024-01-01,Office & Management,62
+2024-02-01,Transportation,387
+2024-02-01,Food Production,258
+2024-02-01,Tray Assembly,322
+2024-02-01,Warehouse,103
+2024-02-01,Sanitation,155
+2024-02-01,Office & Management,61
+2024-03-01,Transportation,393
+2024-03-01,Food Production,262
+2024-03-01,Tray Assembly,327
+2024-03-01,Warehouse,105
+2024-03-01,Sanitation,157
+2024-03-01,Office & Management,62
+2024-04-01,Transportation,400
+2024-04-01,Food Production,267
+2024-04-01,Tray Assembly,333
+2024-04-01,Warehouse,107
+2024-04-01,Sanitation,160
+2024-04-01,Office & Management,63
+2024-05-01,Transportation,423
+2024-05-01,Food Production,282
+2024-05-01,Tray Assembly,352
+2024-05-01,Warehouse,113
+2024-05-01,Sanitation,169
+2024-05-01,Office & Management,66
+2024-06-01,Transportation,431
+2024-06-01,Food Production,288
+2024-06-01,Tray Assembly,359
+2024-06-01,Warehouse,115
+2024-06-01,Sanitation,173
+2024-06-01,Office & Management,67
+2024-07-01,Transportation,446
+2024-07-01,Food Production,298
+2024-07-01,Tray Assembly,371
+2024-07-01,Warehouse,119
+2024-07-01,Sanitation,179
+2024-07-01,Office & Management,69
+2024-08-01,Transportation,450
+2024-08-01,Food Production,300
+2024-08-01,Tray Assembly,374
+2024-08-01,Warehouse,120
+2024-08-01,Sanitation,180
+2024-08-01,Office & Management,69
+2024-09-01,Transportation,449
+2024-09-01,Food Production,299
+2024-09-01,Tray Assembly,373
+2024-09-01,Warehouse,120
+2024-09-01,Sanitation,180
+2024-09-01,Office & Management,69
+2024-10-01,Transportation,440
+2024-10-01,Food Production,293
+2024-10-01,Tray Assembly,366
+2024-10-01,Warehouse,117
+2024-10-01,Sanitation,176
+2024-10-01,Office & Management,67
+2024-11-01,Transportation,423
+2024-11-01,Food Production,282
+2024-11-01,Tray Assembly,352
+2024-11-01,Warehouse,113
+2024-11-01,Sanitation,169
+2024-11-01,Office & Management,65
+2024-12-01,Transportation,415
+2024-12-01,Food Production,276
+2024-12-01,Tray Assembly,345
+2024-12-01,Warehouse,111
+2024-12-01,Sanitation,166
+2024-12-01,Office & Management,63
+2025-01-01,Transportation,407
+2025-01-01,Food Production,271
+2025-01-01,Tray Assembly,339
+2025-01-01,Warehouse,109
+2025-01-01,Sanitation,163
+2025-01-01,Office & Management,62
+2025-02-01,Transportation,397
+2025-02-01,Food Production,265
+2025-02-01,Tray Assembly,330
+2025-02-01,Warehouse,106
+2025-02-01,Sanitation,159
+2025-02-01,Office & Management,60
+2025-03-01,Transportation,402
+2025-03-01,Food Production,268
+2025-03-01,Tray Assembly,335
+2025-03-01,Warehouse,107
+2025-03-01,Sanitation,161
+2025-03-01,Office & Management,61
+2025-04-01,Transportation,409
+2025-04-01,Food Production,272
+2025-04-01,Tray Assembly,340
+2025-04-01,Warehouse,109
+2025-04-01,Sanitation,163
+2025-04-01,Office & Management,61
+2025-05-01,Transportation,438
+2025-05-01,Food Production,292
+2025-05-01,Tray Assembly,364
+2025-05-01,Warehouse,117
+2025-05-01,Sanitation,175
+2025-05-01,Office & Management,65
+2025-06-01,Transportation,449
+2025-06-01,Food Production,299
+2025-06-01,Tray Assembly,374
+2025-06-01,Warehouse,120
+2025-06-01,Sanitation,180
+2025-06-01,Office & Management,67
+2025-07-01,Transportation,465
+2025-07-01,Food Production,310
+2025-07-01,Tray Assembly,387
+2025-07-01,Warehouse,124
+2025-07-01,Sanitation,186
+2025-07-01,Office & Management,69
+2025-08-01,Transportation,469
+2025-08-01,Food Production,312
+2025-08-01,Tray Assembly,390
+2025-08-01,Warehouse,125
+2025-08-01,Sanitation,187
+2025-08-01,Office & Management,69
+2025-09-01,Transportation,464
+2025-09-01,Food Production,309
+2025-09-01,Tray Assembly,386
+2025-09-01,Warehouse,124
+2025-09-01,Sanitation,186
+2025-09-01,Office & Management,68
+2025-10-01,Transportation,453
+2025-10-01,Food Production,302
+2025-10-01,Tray Assembly,377
+2025-10-01,Warehouse,121
+2025-10-01,Sanitation,181
+2025-10-01,Office & Management,66
+2025-11-01,Transportation,433
+2025-11-01,Food Production,289
+2025-11-01,Tray Assembly,361
+2025-11-01,Warehouse,116
+2025-11-01,Sanitation,173
+2025-11-01,Office & Management,63
+2025-12-01,Transportation,425
+2025-12-01,Food Production,283
+2025-12-01,Tray Assembly,354
+2025-12-01,Warehouse,113
+2025-12-01,Sanitation,170
+2025-12-01,Office & Management,62
+2026-01-01,Transportation,418
+2026-01-01,Food Production,278
+2026-01-01,Tray Assembly,348
+2026-01-01,Warehouse,111
+2026-01-01,Sanitation,167
+2026-01-01,Office & Management,61
+2026-02-01,Transportation,408
+2026-02-01,Food Production,272
+2026-02-01,Tray Assembly,339
+2026-02-01,Warehouse,109
+2026-02-01,Sanitation,163
+2026-02-01,Office & Management,59
+2026-03-01,Transportation,413
+2026-03-01,Food Production,276
+2026-03-01,Tray Assembly,344
+2026-03-01,Warehouse,110
+2026-03-01,Sanitation,165
+2026-03-01,Office & Management,60
+2026-04-01,Transportation,421
+2026-04-01,Food Production,281
+2026-04-01,Tray Assembly,350
+2026-04-01,Warehouse,112
+2026-04-01,Sanitation,168
+2026-04-01,Office & Management,60
+2026-05-01,Transportation,450
+2026-05-01,Food Production,300
+2026-05-01,Tray Assembly,375
+2026-05-01,Warehouse,120
+2026-05-01,Sanitation,180
+2026-05-01,Office & Management,64
+2026-06-01,Transportation,460
+2026-06-01,Food Production,307
+2026-06-01,Tray Assembly,383
+2026-06-01,Warehouse,123
+2026-06-01,Sanitation,184
+2026-06-01,Office & Management,66
+2026-07-01,Transportation,476
+2026-07-01,Food Production,317
+2026-07-01,Tray Assembly,396
+2026-07-01,Warehouse,127
+2026-07-01,Sanitation,190
+2026-07-01,Office & Management,68
+2026-08-01,Transportation,479
+2026-08-01,Food Production,320
+2026-08-01,Tray Assembly,399
+2026-08-01,Warehouse,128
+2026-08-01,Sanitation,192
+2026-08-01,Office & Management,68
+2026-09-01,Transportation,474
+2026-09-01,Food Production,316
+2026-09-01,Tray Assembly,394
+2026-09-01,Warehouse,126
+2026-09-01,Sanitation,190
+2026-09-01,Office & Management,67
+2026-10-01,Transportation,462
+2026-10-01,Food Production,308
+2026-10-01,Tray Assembly,385
+2026-10-01,Warehouse,123
+2026-10-01,Sanitation,185
+2026-10-01,Office & Management,65

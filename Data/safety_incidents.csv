@@ -1,0 +1,323 @@
+incident_id,incident_date,employee_id,incident_type,lost_time
+S00001,2023-01-04,E200007,Vehicle accident,False
+S00002,2024-10-20,E200016,Strain / lifting,False
+S00003,2023-11-07,E200020,Strain / lifting,False
+S00004,2023-02-26,E200024,Slip / fall,True
+S00005,2024-10-17,E200053,Vehicle accident,False
+S00006,2023-03-13,E200068,Vehicle accident,False
+S00007,2023-12-23,E200072,Vehicle accident,True
+S00008,2024-07-01,E200072,Vehicle accident,True
+S00009,2023-11-12,E200075,Strain / lifting,False
+S00010,2023-05-25,E200076,Slip / fall,True
+S00011,2023-06-21,E200078,Vehicle accident,True
+S00012,2023-03-19,E200087,Strain / lifting,True
+S00013,2023-01-17,E200102,Vehicle accident,False
+S00014,2023-01-24,E200115,Vehicle accident,False
+S00015,2023-10-14,E200124,Vehicle accident,False
+S00016,2024-01-27,E200128,Strain / lifting,False
+S00017,2024-08-20,E200141,Strain / lifting,False
+S00018,2024-03-16,E200144,Slip / fall,False
+S00019,2023-05-02,E200145,Vehicle accident,False
+S00020,2023-10-26,E200171,Slip / fall,False
+S00021,2023-12-09,E200172,Vehicle accident,True
+S00022,2023-01-21,E200177,Strain / lifting,False
+S00023,2023-07-07,E200177,Vehicle accident,True
+S00024,2024-03-24,E200177,Strain / lifting,True
+S00025,2024-08-19,E200177,Vehicle accident,False
+S00026,2023-03-25,E200179,Vehicle accident,False
+S00027,2026-07-24,E200183,Vehicle accident,False
+S00028,2025-03-16,E200196,Vehicle accident,True
+S00029,2024-01-04,E200198,Vehicle accident,False
+S00030,2026-09-21,E200198,Strain / lifting,True
+S00031,2023-03-23,E200200,Vehicle accident,True
+S00032,2023-04-09,E200203,Strain / lifting,False
+S00033,2023-08-25,E200209,Vehicle accident,False
+S00034,2024-01-01,E200245,Strain / lifting,False
+S00035,2025-05-23,E200261,Vehicle accident,False
+S00036,2023-02-14,E200264,Vehicle accident,True
+S00037,2023-11-07,E200264,Strain / lifting,True
+S00038,2024-07-07,E200264,Strain / lifting,True
+S00039,2025-08-16,E200281,Vehicle accident,False
+S00040,2023-06-19,E200306,Vehicle accident,True
+S00041,2024-04-05,E200324,Vehicle accident,True
+S00042,2025-03-26,E200326,Vehicle accident,False
+S00043,2023-01-21,E200342,Vehicle accident,False
+S00044,2023-04-26,E200353,Strain / lifting,False
+S00045,2025-03-12,E200353,Vehicle accident,True
+S00046,2023-01-13,E200361,Slip / fall,False
+S00047,2023-02-10,E200365,Slip / fall,False
+S00048,2023-03-27,E200373,Vehicle accident,False
+S00049,2023-12-08,E200385,Burn,True
+S00050,2026-03-08,E200386,Burn,False
+S00051,2026-08-17,E200387,Slip / fall,True
+S00052,2023-05-07,E200401,Burn,False
+S00053,2026-03-14,E200407,Cut / laceration,False
+S00054,2024-05-21,E200411,Cut / laceration,False
+S00055,2023-01-24,E200418,Slip / fall,False
+S00056,2023-10-24,E200428,Cut / laceration,False
+S00057,2023-06-04,E200434,Cut / laceration,False
+S00058,2023-07-11,E200443,Burn,False
+S00059,2025-02-02,E200448,Slip / fall,True
+S00060,2024-04-23,E200452,Slip / fall,False
+S00061,2023-06-10,E200453,Slip / fall,False
+S00062,2023-12-01,E200457,Cut / laceration,True
+S00063,2023-03-07,E200460,Burn,False
+S00064,2026-06-13,E200465,Burn,True
+S00065,2023-01-22,E200470,Cut / laceration,False
+S00066,2023-11-28,E200473,Burn,False
+S00067,2023-11-15,E200474,Slip / fall,False
+S00068,2023-12-16,E200474,Burn,False
+S00069,2023-03-17,E200488,Cut / laceration,False
+S00070,2023-07-21,E200497,Slip / fall,True
+S00071,2023-11-25,E200497,Burn,False
+S00072,2026-02-17,E200499,Cut / laceration,False
+S00073,2025-12-04,E200501,Slip / fall,False
+S00074,2024-04-24,E200506,Cut / laceration,False
+S00075,2023-01-26,E200512,Cut / laceration,True
+S00076,2024-10-26,E200515,Cut / laceration,True
+S00077,2024-02-18,E200516,Burn,False
+S00078,2025-04-13,E200517,Cut / laceration,False
+S00079,2023-12-17,E200526,Cut / laceration,True
+S00080,2024-04-16,E200526,Burn,False
+S00081,2023-12-21,E200528,Slip / fall,True
+S00082,2024-10-23,E200538,Slip / fall,True
+S00083,2025-04-12,E200538,Slip / fall,False
+S00084,2024-08-27,E200555,Slip / fall,False
+S00085,2025-05-19,E200566,Slip / fall,False
+S00086,2026-05-01,E200571,Slip / fall,False
+S00087,2023-06-03,E200572,Slip / fall,True
+S00088,2025-01-23,E200573,Burn,True
+S00089,2025-02-01,E200579,Cut / laceration,False
+S00090,2023-10-04,E200598,Cut / laceration,False
+S00091,2025-04-12,E200598,Cut / laceration,True
+S00092,2024-01-13,E200607,Slip / fall,False
+S00093,2026-02-06,E200612,Slip / fall,False
+S00094,2024-07-10,E200623,Cut / laceration,False
+S00095,2023-01-22,E200626,Strain / lifting,False
+S00096,2025-06-02,E200638,Slip / fall,True
+S00097,2026-01-26,E200666,Slip / fall,False
+S00098,2024-12-27,E200689,Strain / lifting,False
+S00099,2023-03-12,E200693,Strain / lifting,False
+S00100,2023-01-12,E200721,Strain / lifting,False
+S00101,2024-01-03,E200730,Cut / laceration,False
+S00102,2025-04-14,E200737,Strain / lifting,True
+S00103,2024-11-12,E200741,Slip / fall,False
+S00104,2023-09-12,E200743,Cut / laceration,False
+S00105,2023-05-21,E200749,Slip / fall,False
+S00106,2023-12-12,E200755,Slip / fall,True
+S00107,2026-09-24,E200757,Slip / fall,False
+S00108,2026-06-25,E200765,Strain / lifting,False
+S00109,2023-05-18,E200776,Strain / lifting,True
+S00110,2023-10-28,E200783,Strain / lifting,False
+S00111,2026-10-08,E200790,Strain / lifting,False
+S00112,2023-10-24,E200811,Slip / fall,False
+S00113,2025-03-19,E200829,Strain / lifting,False
+S00114,2025-02-26,E200832,Cut / laceration,False
+S00115,2024-04-20,E200834,Slip / fall,False
+S00116,2025-01-25,E200840,Strain / lifting,False
+S00117,2026-01-01,E200847,Slip / fall,False
+S00118,2023-10-27,E200867,Strain / lifting,False
+S00119,2023-02-05,E200878,Slip / fall,False
+S00120,2023-01-22,E200885,Slip / fall,False
+S00121,2026-07-03,E200887,Slip / fall,False
+S00122,2023-05-20,E200895,Strain / lifting,False
+S00123,2025-02-02,E200926,Strain / lifting,False
+S00124,2023-10-11,E200938,Strain / lifting,False
+S00125,2024-11-10,E200943,Strain / lifting,False
+S00126,2024-12-17,E200959,Forklift / equipment,False
+S00127,2023-09-09,E200978,Strain / lifting,False
+S00128,2024-09-03,E200978,Forklift / equipment,True
+S00129,2026-04-25,E201000,Strain / lifting,False
+S00130,2025-04-12,E201005,Forklift / equipment,False
+S00131,2024-04-15,E201007,Strain / lifting,True
+S00132,2025-07-01,E201013,Strain / lifting,True
+S00133,2023-02-22,E201014,Forklift / equipment,False
+S00134,2024-11-28,E201024,Strain / lifting,False
+S00135,2023-12-08,E201025,Forklift / equipment,False
+S00136,2023-01-25,E201037,Strain / lifting,False
+S00137,2024-09-24,E201051,Chemical exposure,False
+S00138,2024-01-10,E201052,Cut / laceration,False
+S00139,2024-10-17,E201068,Slip / fall,False
+S00140,2025-10-23,E201079,Slip / fall,False
+S00141,2026-04-26,E201085,Cut / laceration,False
+S00142,2023-02-21,E201089,Slip / fall,True
+S00143,2023-01-20,E201093,Chemical exposure,False
+S00144,2025-07-18,E201099,Slip / fall,True
+S00145,2024-12-27,E201105,Slip / fall,False
+S00146,2024-04-21,E201110,Cut / laceration,False
+S00147,2025-02-12,E201111,Cut / laceration,False
+S00148,2025-04-03,E201111,Chemical exposure,False
+S00149,2023-03-11,E201113,Slip / fall,False
+S00150,2024-01-13,E201119,Slip / fall,False
+S00151,2026-01-16,E201120,Cut / laceration,False
+S00152,2026-07-22,E201120,Slip / fall,True
+S00153,2026-10-19,E201120,Cut / laceration,False
+S00154,2025-05-24,E201130,Slip / fall,False
+S00155,2023-08-12,E201132,Slip / fall,False
+S00156,2025-11-20,E201133,Cut / laceration,False
+S00157,2023-07-28,E201135,Cut / laceration,False
+S00158,2024-06-12,E201135,Chemical exposure,True
+S00159,2025-06-24,E201145,Slip / fall,True
+S00160,2023-03-22,E201146,Slip / fall,False
+S00161,2023-01-14,E201151,Chemical exposure,False
+S00162,2023-08-25,E201159,Slip / fall,False
+S00163,2024-03-11,E201173,Cut / laceration,False
+S00164,2023-01-17,E201181,Chemical exposure,False
+S00165,2025-09-07,E201181,Slip / fall,True
+S00166,2023-02-26,E201185,Cut / laceration,True
+S00167,2025-10-18,E201186,Slip / fall,True
+S00168,2024-12-05,E201187,Cut / laceration,False
+S00169,2024-11-12,E201254,Vehicle accident,False
+S00170,2023-03-23,E201255,Vehicle accident,False
+S00171,2023-04-13,E201260,Burn,False
+S00172,2025-02-03,E201267,Strain / lifting,False
+S00173,2023-11-16,E201282,Vehicle accident,False
+S00174,2024-05-09,E201293,Cut / laceration,False
+S00175,2024-09-19,E201294,Slip / fall,True
+S00176,2025-07-24,E201298,Strain / lifting,False
+S00177,2024-06-05,E201303,Strain / lifting,False
+S00178,2023-09-20,E201305,Strain / lifting,False
+S00179,2023-09-21,E201332,Slip / fall,True
+S00180,2024-10-25,E201335,Vehicle accident,True
+S00181,2023-04-20,E201351,Burn,False
+S00182,2026-09-21,E201401,Chemical exposure,False
+S00183,2025-08-24,E201406,Slip / fall,False
+S00184,2023-08-13,E201415,Strain / lifting,False
+S00185,2023-07-21,E201421,Vehicle accident,True
+S00186,2026-08-12,E201430,Slip / fall,True
+S00187,2026-02-25,E201432,Cut / laceration,False
+S00188,2025-03-26,E201433,Burn,False
+S00189,2025-08-25,E201435,Cut / laceration,False
+S00190,2023-07-17,E201437,Cut / laceration,False
+S00191,2025-06-20,E201440,Burn,False
+S00192,2023-10-20,E201444,Strain / lifting,True
+S00193,2023-08-01,E201463,Slip / fall,True
+S00194,2025-07-02,E201475,Chemical exposure,False
+S00195,2024-12-02,E201487,Vehicle accident,True
+S00196,2024-10-15,E201513,Slip / fall,False
+S00197,2024-07-05,E201516,Strain / lifting,False
+S00198,2024-08-12,E201528,Strain / lifting,False
+S00199,2024-05-21,E201552,Vehicle accident,False
+S00200,2025-02-13,E201552,Strain / lifting,False
+S00201,2024-07-20,E201556,Strain / lifting,False
+S00202,2023-10-11,E201560,Strain / lifting,True
+S00203,2025-02-06,E201562,Vehicle accident,False
+S00204,2024-05-24,E201563,Vehicle accident,False
+S00205,2024-03-02,E201572,Vehicle accident,False
+S00206,2024-11-21,E201578,Cut / laceration,False
+S00207,2025-10-08,E201582,Cut / laceration,True
+S00208,2024-05-07,E201586,Cut / laceration,False
+S00209,2024-06-05,E201616,Slip / fall,False
+S00210,2025-11-08,E201616,Cut / laceration,False
+S00211,2025-11-03,E201636,Vehicle accident,False
+S00212,2026-01-08,E201636,Vehicle accident,False
+S00213,2023-12-07,E201646,Burn,False
+S00214,2026-05-07,E201647,Cut / laceration,False
+S00215,2025-08-05,E201663,Slip / fall,False
+S00216,2026-04-27,E201663,Cut / laceration,False
+S00217,2023-12-07,E201667,Vehicle accident,False
+S00218,2023-09-04,E201684,Vehicle accident,True
+S00219,2024-02-10,E201688,Cut / laceration,False
+S00220,2025-07-19,E201690,Cut / laceration,True
+S00221,2025-09-08,E201690,Slip / fall,True
+S00222,2026-02-28,E201690,Cut / laceration,False
+S00223,2024-07-26,E201694,Strain / lifting,False
+S00224,2024-10-18,E201695,Slip / fall,False
+S00225,2024-02-05,E201707,Slip / fall,False
+S00226,2024-03-10,E201707,Vehicle accident,False
+S00227,2024-07-15,E201723,Slip / fall,True
+S00228,2024-09-10,E201725,Strain / lifting,True
+S00229,2026-09-11,E201734,Vehicle accident,True
+S00230,2024-03-21,E201737,Vehicle accident,True
+S00231,2024-12-21,E201739,Strain / lifting,True
+S00232,2024-03-07,E201744,Vehicle accident,False
+S00233,2024-06-24,E201752,Strain / lifting,False
+S00234,2026-02-14,E201758,Strain / lifting,False
+S00235,2024-03-28,E201765,Vehicle accident,False
+S00236,2025-05-22,E201776,Vehicle accident,False
+S00237,2024-02-02,E201781,Vehicle accident,True
+S00238,2026-05-02,E201781,Vehicle accident,False
+S00239,2024-06-14,E201788,Strain / lifting,True
+S00240,2024-07-24,E201791,Strain / lifting,False
+S00241,2026-06-26,E201810,Vehicle accident,True
+S00242,2025-11-23,E201837,Vehicle accident,False
+S00243,2024-06-15,E201839,Vehicle accident,False
+S00244,2024-09-09,E201841,Vehicle accident,True
+S00245,2025-02-06,E201845,Strain / lifting,False
+S00246,2024-04-04,E201853,Vehicle accident,False
+S00247,2026-02-12,E201868,Cut / laceration,False
+S00248,2026-04-20,E201869,Burn,False
+S00249,2024-09-03,E201898,Vehicle accident,False
+S00250,2026-02-27,E201898,Strain / lifting,True
+S00251,2024-08-28,E201905,Vehicle accident,False
+S00252,2026-08-15,E201920,Burn,False
+S00253,2026-08-08,E201934,Slip / fall,False
+S00254,2025-02-11,E201939,Slip / fall,False
+S00255,2024-06-16,E201957,Chemical exposure,False
+S00256,2025-04-28,E201994,Cut / laceration,False
+S00257,2024-11-05,E202000,Slip / fall,False
+S00258,2025-12-01,E202005,Cut / laceration,False
+S00259,2025-04-05,E202016,Cut / laceration,False
+S00260,2024-08-13,E202049,Vehicle accident,True
+S00261,2025-01-14,E202059,Slip / fall,False
+S00262,2024-11-03,E202061,Vehicle accident,True
+S00263,2026-08-03,E202062,Vehicle accident,True
+S00264,2024-09-14,E202082,Vehicle accident,False
+S00265,2026-09-19,E202083,Cut / laceration,False
+S00266,2024-09-12,E202085,Cut / laceration,False
+S00267,2024-06-19,E202089,Cut / laceration,False
+S00268,2026-05-08,E202089,Slip / fall,True
+S00269,2026-10-16,E202114,Forklift / equipment,False
+S00270,2024-10-24,E202130,Vehicle accident,True
+S00271,2025-01-17,E202136,Vehicle accident,False
+S00272,2024-07-08,E202144,Slip / fall,False
+S00273,2024-11-07,E202147,Vehicle accident,False
+S00274,2024-09-13,E202152,Slip / fall,False
+S00275,2025-09-15,E202154,Cut / laceration,True
+S00276,2026-01-01,E202158,Cut / laceration,False
+S00277,2026-06-21,E202173,Slip / fall,False
+S00278,2025-10-23,E202195,Chemical exposure,False
+S00279,2025-05-28,E202202,Slip / fall,False
+S00280,2026-04-16,E202213,Vehicle accident,True
+S00281,2025-03-04,E202218,Vehicle accident,False
+S00282,2024-11-23,E202221,Strain / lifting,True
+S00283,2025-02-05,E202241,Strain / lifting,False
+S00284,2025-05-12,E202247,Slip / fall,False
+S00285,2024-10-21,E202249,Slip / fall,False
+S00286,2025-08-07,E202251,Slip / fall,False
+S00287,2026-04-05,E202265,Vehicle accident,True
+S00288,2026-06-28,E202310,Cut / laceration,True
+S00289,2026-06-13,E202319,Vehicle accident,False
+S00290,2025-06-05,E202330,Vehicle accident,False
+S00291,2025-05-11,E202345,Slip / fall,False
+S00292,2026-03-20,E202384,Slip / fall,False
+S00293,2026-01-27,E202392,Strain / lifting,False
+S00294,2025-06-03,E202402,Slip / fall,False
+S00295,2026-01-24,E202402,Burn,True
+S00296,2025-05-09,E202424,Strain / lifting,False
+S00297,2026-07-19,E202475,Vehicle accident,True
+S00298,2025-04-02,E202479,Vehicle accident,False
+S00299,2025-12-03,E202502,Burn,False
+S00300,2025-06-20,E202566,Strain / lifting,False
+S00301,2025-08-21,E202578,Vehicle accident,True
+S00302,2026-09-18,E202580,Vehicle accident,True
+S00303,2026-09-26,E202595,Strain / lifting,False
+S00304,2026-06-22,E202607,Cut / laceration,False
+S00305,2025-11-21,E202610,Strain / lifting,False
+S00306,2026-01-27,E202636,Cut / laceration,False
+S00307,2025-10-09,E202682,Burn,False
+S00308,2025-09-25,E202704,Strain / lifting,False
+S00309,2026-05-11,E202733,Cut / laceration,True
+S00310,2026-01-20,E202742,Vehicle accident,True
+S00311,2026-02-10,E202742,Vehicle accident,False
+S00312,2026-07-09,E202763,Strain / lifting,False
+S00313,2026-03-04,E202861,Cut / laceration,False
+S00314,2026-08-04,E202874,Forklift / equipment,True
+S00315,2026-10-09,E202880,Slip / fall,True
+S00316,2026-04-23,E202917,Slip / fall,False
+S00317,2025-11-22,E202931,Vehicle accident,False
+S00318,2026-10-20,E202936,Strain / lifting,False
+S00319,2026-06-08,E202959,Vehicle accident,True
+S00320,2026-07-08,E203117,Strain / lifting,False
+S00321,2026-05-23,E203119,Strain / lifting,False
+S00322,2026-10-03,E203151,Cut / laceration,True

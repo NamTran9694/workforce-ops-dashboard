@@ -1,0 +1,1911 @@
+employee_id,term_date,term_type,term_reason
+E880004,2016-09-13,Voluntary,Other
+E880001,2020-07-02,Voluntary,Other
+E880003,2020-08-14,Voluntary,Other
+E200279,2023-01-01,Voluntary,Better pay
+E200155,2023-01-01,Voluntary,Better pay
+E201138,2023-01-01,Involuntary,Safety violation
+E200105,2023-01-03,Voluntary,Better pay
+E200163,2023-01-04,Voluntary,Better pay
+E200266,2023-01-05,Voluntary,Found another job
+E200098,2023-01-05,Voluntary,Better pay
+E200250,2023-01-05,Voluntary,Better pay
+E200328,2023-01-06,Voluntary,Job too physical
+E200055,2023-01-08,Voluntary,Better pay
+E201019,2023-01-09,Voluntary,Better pay
+E200784,2023-01-09,Voluntary,Schedule / shift
+E200004,2023-01-10,Voluntary,Better pay
+E200649,2023-01-11,Voluntary,Relocation
+E200106,2023-01-13,Voluntary,Job too physical
+E200309,2023-01-14,Involuntary,Policy violation
+E201032,2023-01-16,Voluntary,Found another job
+E200817,2023-01-17,Voluntary,Schedule / shift
+E201128,2023-01-18,Involuntary,Attendance
+E200339,2023-01-20,Voluntary,Better pay
+E200558,2023-01-21,Involuntary,Attendance
+E200643,2023-01-22,Voluntary,Schedule / shift
+E200313,2023-01-23,Voluntary,Better pay
+E200345,2023-01-23,Voluntary,Schedule / shift
+E200676,2023-01-23,Voluntary,Job too physical
+E200025,2023-01-23,Voluntary,Better pay
+E200798,2023-01-24,Involuntary,Attendance
+E200746,2023-01-24,Voluntary,Schedule / shift
+E200549,2023-01-24,Voluntary,Other
+E200280,2023-01-24,Involuntary,Attendance
+E200273,2023-01-25,Voluntary,Other
+E200764,2023-01-25,Voluntary,Schedule / shift
+E200320,2023-01-26,Voluntary,Better pay
+E200088,2023-01-26,Voluntary,Job too physical
+E200657,2023-01-26,Voluntary,Schedule / shift
+E200986,2023-01-27,Voluntary,Schedule / shift
+E200580,2023-01-29,Voluntary,Schedule / shift
+E200201,2023-01-29,Voluntary,Better pay
+E200099,2023-01-30,Voluntary,Better pay
+E200239,2023-02-01,Voluntary,Better pay
+E200035,2023-02-02,Voluntary,Better pay
+E200303,2023-02-06,Voluntary,Better pay
+E200700,2023-02-09,Voluntary,Better pay
+E200406,2023-02-09,Voluntary,Better pay
+E200564,2023-02-10,Involuntary,Safety violation
+E200641,2023-02-10,Voluntary,Schedule / shift
+E200225,2023-02-11,Voluntary,Found another job
+E200674,2023-02-12,Voluntary,Schedule / shift
+E200609,2023-02-13,Voluntary,Relocation
+E200133,2023-02-14,Voluntary,Schedule / shift
+E200894,2023-02-14,Voluntary,Schedule / shift
+E200595,2023-02-15,Voluntary,Better pay
+E200642,2023-02-15,Voluntary,Schedule / shift
+E200537,2023-02-17,Voluntary,Other
+E200333,2023-02-18,Voluntary,Found another job
+E200360,2023-02-19,Voluntary,Schedule / shift
+E200114,2023-02-21,Voluntary,Better pay
+E200310,2023-02-21,Voluntary,Found another job
+E200290,2023-02-22,Voluntary,Better pay
+E200062,2023-02-22,Voluntary,Better pay
+E200041,2023-02-22,Voluntary,Better pay
+E200040,2023-02-22,Voluntary,Better pay
+E200193,2023-02-22,Voluntary,Relocation
+E201062,2023-02-23,Involuntary,Attendance
+E200400,2023-02-24,Involuntary,Safety violation
+E200610,2023-02-25,Voluntary,Found another job
+E200160,2023-02-27,Voluntary,Better pay
+E200866,2023-02-28,Voluntary,Better pay
+E200413,2023-02-28,Voluntary,Job too physical
+E200441,2023-03-02,Involuntary,Performance
+E200534,2023-03-03,Voluntary,Schedule / shift
+E200045,2023-03-04,Voluntary,Better pay
+E200256,2023-03-04,Voluntary,Found another job
+E200305,2023-03-05,Voluntary,Better pay
+E201095,2023-03-08,Voluntary,Schedule / shift
+E200826,2023-03-08,Voluntary,Schedule / shift
+E200525,2023-03-09,Voluntary,Job too physical
+E200771,2023-03-10,Voluntary,Better pay
+E200101,2023-03-10,Voluntary,Better pay
+E201047,2023-03-11,Voluntary,Schedule / shift
+E200064,2023-03-11,Voluntary,Better pay
+E200354,2023-03-11,Voluntary,Found another job
+E200046,2023-03-11,Voluntary,Other
+E200803,2023-03-12,Voluntary,Schedule / shift
+E200120,2023-03-12,Voluntary,Found another job
+E200118,2023-03-13,Voluntary,Better pay
+E200719,2023-03-13,Voluntary,Job too physical
+E200789,2023-03-13,Voluntary,Better pay
+E200774,2023-03-14,Voluntary,Relocation
+E200190,2023-03-15,Voluntary,Better pay
+E200957,2023-03-16,Voluntary,Better pay
+E200675,2023-03-16,Voluntary,Found another job
+E200984,2023-03-16,Voluntary,Schedule / shift
+E200149,2023-03-18,Voluntary,Found another job
+E200147,2023-03-18,Voluntary,Schedule / shift
+E200218,2023-03-19,Voluntary,Better pay
+E200175,2023-03-19,Voluntary,Schedule / shift
+E200073,2023-03-20,Voluntary,Job too physical
+E200844,2023-03-22,Voluntary,Found another job
+E200277,2023-03-23,Voluntary,Better pay
+E200315,2023-03-23,Voluntary,Better pay
+E200507,2023-03-24,Retirement,Retirement
+E200293,2023-03-24,Voluntary,Found another job
+E201262,2023-03-25,Voluntary,Job too physical
+E200308,2023-03-26,Voluntary,Better pay
+E200437,2023-03-27,Voluntary,Job too physical
+E201091,2023-03-28,Voluntary,Schedule / shift
+E200123,2023-03-28,Voluntary,Better pay
+E200782,2023-03-29,Voluntary,Schedule / shift
+E200859,2023-03-29,Voluntary,Schedule / shift
+E200012,2023-03-29,Voluntary,Found another job
+E200194,2023-03-30,Voluntary,Better pay
+E200366,2023-03-30,Voluntary,Better pay
+E201184,2023-03-30,Voluntary,Schedule / shift
+E200015,2023-03-31,Involuntary,Attendance
+E201301,2023-04-01,Voluntary,Better pay
+E200589,2023-04-02,Voluntary,Other
+E200349,2023-04-02,Voluntary,Better pay
+E200304,2023-04-02,Voluntary,Schedule / shift
+E200050,2023-04-03,Voluntary,Better pay
+E201048,2023-04-04,Voluntary,Found another job
+E200569,2023-04-04,Voluntary,Other
+E200237,2023-04-04,Voluntary,Schedule / shift
+E200870,2023-04-05,Involuntary,Policy violation
+E201109,2023-04-05,Involuntary,Policy violation
+E201200,2023-04-07,Involuntary,Safety violation
+E200185,2023-04-07,Voluntary,Found another job
+E201021,2023-04-08,Involuntary,Performance
+E200370,2023-04-09,Voluntary,Schedule / shift
+E200356,2023-04-09,Voluntary,Better pay
+E200090,2023-04-09,Voluntary,Better pay
+E201317,2023-04-09,Voluntary,Better pay
+E200034,2023-04-11,Voluntary,Better pay
+E200215,2023-04-11,Voluntary,Better pay
+E200052,2023-04-11,Voluntary,Job too physical
+E200654,2023-04-11,Involuntary,Attendance
+E200008,2023-04-12,Voluntary,Schedule / shift
+E201010,2023-04-12,Voluntary,Other
+E200677,2023-04-15,Involuntary,Attendance
+E201315,2023-04-15,Voluntary,Better pay
+E201150,2023-04-15,Voluntary,Found another job
+E200871,2023-04-16,Voluntary,Schedule / shift
+E200095,2023-04-18,Voluntary,Schedule / shift
+E200085,2023-04-18,Voluntary,Better pay
+E200533,2023-04-18,Voluntary,Better pay
+E200094,2023-04-19,Voluntary,Found another job
+E200317,2023-04-20,Voluntary,Relocation
+E200456,2023-04-20,Voluntary,Schedule / shift
+E201151,2023-04-20,Voluntary,Schedule / shift
+E200850,2023-04-21,Voluntary,Found another job
+E201136,2023-04-21,Voluntary,Job too physical
+E200332,2023-04-21,Voluntary,Better pay
+E200364,2023-04-22,Voluntary,Better pay
+E200928,2023-04-22,Voluntary,Better pay
+E200988,2023-04-23,Involuntary,Attendance
+E201299,2023-04-24,Voluntary,Schedule / shift
+E201115,2023-04-25,Voluntary,Job too physical
+E201177,2023-04-25,Voluntary,Job too physical
+E201016,2023-04-26,Voluntary,Relocation
+E200710,2023-04-26,Voluntary,Job too physical
+E200173,2023-05-01,Voluntary,Better pay
+E201400,2023-05-02,Voluntary,Schedule / shift
+E200802,2023-05-02,Voluntary,Better pay
+E201394,2023-05-03,Voluntary,Job too physical
+E200841,2023-05-04,Involuntary,Policy violation
+E200127,2023-05-04,Voluntary,Better pay
+E201003,2023-05-04,Voluntary,Schedule / shift
+E200930,2023-05-06,Involuntary,Safety violation
+E200351,2023-05-06,Voluntary,Better pay
+E200065,2023-05-06,Voluntary,Found another job
+E200373,2023-05-06,Voluntary,Job too physical
+E200522,2023-05-09,Voluntary,Found another job
+E200181,2023-05-10,Voluntary,Schedule / shift
+E200686,2023-05-12,Voluntary,Better pay
+E200350,2023-05-12,Voluntary,Better pay
+E200329,2023-05-12,Voluntary,Found another job
+E200157,2023-05-14,Voluntary,Found another job
+E201225,2023-05-15,Involuntary,Attendance
+E201329,2023-05-16,Voluntary,Other
+E200297,2023-05-16,Voluntary,Other
+E201071,2023-05-17,Voluntary,Schedule / shift
+E200359,2023-05-17,Voluntary,Schedule / shift
+E200361,2023-05-17,Voluntary,Relocation
+E200323,2023-05-17,Voluntary,Better pay
+E200148,2023-05-18,Voluntary,Schedule / shift
+E200091,2023-05-19,Voluntary,Better pay
+E200217,2023-05-21,Voluntary,Better pay
+E200813,2023-05-21,Voluntary,Schedule / shift
+E200080,2023-05-21,Voluntary,Better pay
+E200905,2023-05-23,Voluntary,Found another job
+E200488,2023-05-23,Voluntary,Other
+E201041,2023-05-24,Involuntary,Safety violation
+E200195,2023-05-24,Voluntary,Found another job
+E201371,2023-05-25,Voluntary,Relocation
+E200777,2023-05-26,Voluntary,Found another job
+E200645,2023-05-28,Voluntary,Better pay
+E200761,2023-05-28,Voluntary,Schedule / shift
+E200362,2023-05-28,Involuntary,Policy violation
+E201243,2023-05-29,Voluntary,Schedule / shift
+E200985,2023-05-29,Voluntary,Better pay
+E200060,2023-06-01,Voluntary,Better pay
+E200358,2023-06-02,Voluntary,Found another job
+E200635,2023-06-03,Voluntary,Other
+E200591,2023-06-03,Voluntary,Schedule / shift
+E201152,2023-06-04,Voluntary,Other
+E200206,2023-06-04,Voluntary,Job too physical
+E200667,2023-06-05,Voluntary,Found another job
+E201365,2023-06-05,Voluntary,Other
+E200203,2023-06-05,Voluntary,Found another job
+E201035,2023-06-06,Voluntary,Found another job
+E200931,2023-06-06,Voluntary,Schedule / shift
+E200394,2023-06-06,Voluntary,Found another job
+E200214,2023-06-08,Voluntary,Relocation
+E201403,2023-06-08,Voluntary,Schedule / shift
+E201436,2023-06-08,Voluntary,Schedule / shift
+E200417,2023-06-10,Voluntary,Job too physical
+E201163,2023-06-10,Voluntary,Other
+E200939,2023-06-12,Voluntary,Relocation
+E200170,2023-06-13,Voluntary,Better pay
+E201306,2023-06-13,Voluntary,Better pay
+E200284,2023-06-14,Voluntary,Better pay
+E201378,2023-06-14,Voluntary,Other
+E201459,2023-06-15,Voluntary,Better pay
+E201382,2023-06-16,Voluntary,Better pay
+E201380,2023-06-16,Voluntary,Found another job
+E200865,2023-06-17,Voluntary,Schedule / shift
+E201090,2023-06-17,Involuntary,Policy violation
+E201364,2023-06-19,Voluntary,Schedule / shift
+E201361,2023-06-19,Voluntary,Schedule / shift
+E201471,2023-06-21,Voluntary,Schedule / shift
+E201351,2023-06-22,Voluntary,Found another job
+E201188,2023-06-22,Voluntary,Better pay
+E200081,2023-06-23,Voluntary,Found another job
+E200187,2023-06-23,Voluntary,Found another job
+E200773,2023-06-23,Voluntary,Job too physical
+E200268,2023-06-25,Voluntary,Job too physical
+E200295,2023-06-25,Voluntary,Relocation
+E200037,2023-06-26,Voluntary,Other
+E201438,2023-06-26,Involuntary,Policy violation
+E200047,2023-06-27,Voluntary,Found another job
+E200476,2023-06-27,Voluntary,Found another job
+E200159,2023-06-27,Voluntary,Schedule / shift
+E200495,2023-06-28,Voluntary,Schedule / shift
+E200244,2023-07-01,Involuntary,Safety violation
+E201416,2023-07-01,Voluntary,Better pay
+E201402,2023-07-04,Voluntary,Better pay
+E200233,2023-07-04,Voluntary,Better pay
+E200932,2023-07-04,Involuntary,Policy violation
+E200804,2023-07-05,Voluntary,Found another job
+E201239,2023-07-05,Voluntary,Schedule / shift
+E200278,2023-07-05,Voluntary,Better pay
+E200108,2023-07-06,Voluntary,Found another job
+E200927,2023-07-06,Voluntary,Other
+E200838,2023-07-07,Voluntary,Relocation
+E200699,2023-07-07,Voluntary,Found another job
+E200374,2023-07-08,Voluntary,Better pay
+E200556,2023-07-09,Voluntary,Other
+E200613,2023-07-10,Voluntary,Better pay
+E201483,2023-07-11,Voluntary,Found another job
+E200950,2023-07-13,Voluntary,Found another job
+E200038,2023-07-13,Voluntary,Better pay
+E201179,2023-07-14,Voluntary,Schedule / shift
+E201087,2023-07-15,Voluntary,Schedule / shift
+E201535,2023-07-17,Voluntary,Other
+E201358,2023-07-18,Voluntary,Found another job
+E200252,2023-07-18,Voluntary,Better pay
+E200335,2023-07-19,Involuntary,Performance
+E201465,2023-07-20,Voluntary,Found another job
+E201342,2023-07-20,Voluntary,Found another job
+E201486,2023-07-21,Voluntary,Better pay
+E201104,2023-07-22,Voluntary,Found another job
+E200582,2023-07-22,Voluntary,Found another job
+E200121,2023-07-22,Voluntary,Better pay
+E201288,2023-07-23,Voluntary,Better pay
+E201421,2023-07-23,Voluntary,Better pay
+E200732,2023-07-23,Voluntary,Better pay
+E201083,2023-07-23,Involuntary,Attendance
+E200082,2023-07-23,Voluntary,Better pay
+E201149,2023-07-24,Voluntary,Better pay
+E200648,2023-07-25,Voluntary,Schedule / shift
+E200089,2023-07-26,Voluntary,Found another job
+E201541,2023-07-26,Involuntary,Attendance
+E200347,2023-07-27,Voluntary,Better pay
+E200116,2023-07-27,Voluntary,Found another job
+E200970,2023-07-27,Involuntary,Attendance
+E201481,2023-07-28,Voluntary,Better pay
+E200059,2023-07-28,Voluntary,Found another job
+E200248,2023-07-28,Voluntary,Better pay
+E201536,2023-07-29,Voluntary,Schedule / shift
+E201547,2023-07-29,Voluntary,Relocation
+E200502,2023-07-30,Voluntary,Other
+E201427,2023-07-30,Voluntary,Better pay
+E201474,2023-07-31,Voluntary,Schedule / shift
+E201525,2023-07-31,Voluntary,Better pay
+E201140,2023-07-31,Voluntary,Found another job
+E201545,2023-08-01,Voluntary,Job too physical
+E200076,2023-08-02,Voluntary,Better pay
+E200914,2023-08-02,Voluntary,Better pay
+E200947,2023-08-03,Involuntary,Performance
+E200083,2023-08-05,Voluntary,Better pay
+E201107,2023-08-06,Voluntary,Found another job
+E201207,2023-08-06,Voluntary,Better pay
+E200606,2023-08-06,Voluntary,Schedule / shift
+E201461,2023-08-06,Voluntary,Job too physical
+E200222,2023-08-07,Voluntary,Better pay
+E200013,2023-08-07,Voluntary,Better pay
+E201526,2023-08-07,Voluntary,Better pay
+E200150,2023-08-08,Voluntary,Better pay
+E201473,2023-08-08,Voluntary,Job too physical
+E200551,2023-08-09,Voluntary,Relocation
+E201610,2023-08-09,Voluntary,Schedule / shift
+E200375,2023-08-09,Voluntary,Better pay
+E200084,2023-08-10,Voluntary,Better pay
+E201518,2023-08-12,Voluntary,Job too physical
+E201599,2023-08-12,Voluntary,Better pay
+E200145,2023-08-12,Voluntary,Better pay
+E200964,2023-08-14,Involuntary,Attendance
+E200696,2023-08-15,Voluntary,Job too physical
+E200426,2023-08-15,Voluntary,Schedule / shift
+E200781,2023-08-15,Voluntary,Other
+E200451,2023-08-16,Voluntary,Schedule / shift
+E201348,2023-08-16,Voluntary,Relocation
+E200288,2023-08-16,Voluntary,Other
+E201568,2023-08-18,Voluntary,Better pay
+E200251,2023-08-20,Voluntary,Better pay
+E200487,2023-08-20,Voluntary,Schedule / shift
+E200863,2023-08-20,Voluntary,Schedule / shift
+E201215,2023-08-21,Voluntary,Job too physical
+E201612,2023-08-22,Voluntary,Other
+E201334,2023-08-23,Voluntary,Job too physical
+E200481,2023-08-23,Voluntary,Other
+E201418,2023-08-23,Voluntary,Found another job
+E200009,2023-08-24,Voluntary,Better pay
+E201476,2023-08-25,Voluntary,Schedule / shift
+E200132,2023-08-25,Voluntary,Found another job
+E200219,2023-08-27,Voluntary,Better pay
+E200889,2023-08-28,Involuntary,Performance
+E200531,2023-08-29,Voluntary,Better pay
+E201319,2023-08-30,Voluntary,Better pay
+E201615,2023-08-30,Voluntary,Schedule / shift
+E201493,2023-08-30,Involuntary,Policy violation
+E200397,2023-08-31,Voluntary,Found another job
+E200228,2023-08-31,Voluntary,Better pay
+E200485,2023-08-31,Voluntary,Found another job
+E201265,2023-08-31,Voluntary,Other
+E200236,2023-08-31,Voluntary,Found another job
+E200807,2023-09-02,Involuntary,Attendance
+E200388,2023-09-03,Voluntary,Found another job
+E201594,2023-09-03,Voluntary,Job too physical
+E201521,2023-09-03,Voluntary,Schedule / shift
+E201127,2023-09-04,Involuntary,Attendance
+E200853,2023-09-04,Voluntary,Schedule / shift
+E200156,2023-09-05,Voluntary,Better pay
+E201425,2023-09-06,Voluntary,Found another job
+E200382,2023-09-06,Voluntary,Schedule / shift
+E200299,2023-09-06,Voluntary,Better pay
+E201496,2023-09-08,Voluntary,Job too physical
+E201108,2023-09-08,Voluntary,Schedule / shift
+E200652,2023-09-08,Voluntary,Job too physical
+E200042,2023-09-08,Voluntary,Better pay
+E200017,2023-09-09,Voluntary,Better pay
+E201446,2023-09-10,Voluntary,Found another job
+E200011,2023-09-10,Voluntary,Better pay
+E200934,2023-09-10,Voluntary,Better pay
+E201638,2023-09-10,Voluntary,Better pay
+E201546,2023-09-11,Voluntary,Schedule / shift
+E200005,2023-09-11,Voluntary,Job too physical
+E201625,2023-09-13,Voluntary,Found another job
+E200395,2023-09-13,Voluntary,Other
+E200152,2023-09-15,Voluntary,Relocation
+E201322,2023-09-16,Voluntary,Schedule / shift
+E201538,2023-09-16,Voluntary,Better pay
+E201327,2023-09-18,Voluntary,Better pay
+E200491,2023-09-19,Voluntary,Schedule / shift
+E201651,2023-09-20,Voluntary,Job too physical
+E200823,2023-09-21,Voluntary,Schedule / shift
+E200981,2023-09-22,Voluntary,Other
+E200036,2023-09-22,Voluntary,Better pay
+E200023,2023-09-23,Voluntary,Schedule / shift
+E201519,2023-09-25,Voluntary,Schedule / shift
+E201167,2023-09-26,Voluntary,Schedule / shift
+E200904,2023-09-26,Involuntary,Performance
+E200828,2023-09-27,Voluntary,Schedule / shift
+E200535,2023-09-28,Voluntary,Other
+E200197,2023-09-28,Voluntary,Better pay
+E200126,2023-09-29,Voluntary,Better pay
+E200061,2023-09-29,Voluntary,Better pay
+E201385,2023-10-01,Involuntary,Performance
+E200092,2023-10-01,Voluntary,Better pay
+E201338,2023-10-02,Voluntary,Better pay
+E201659,2023-10-02,Voluntary,Found another job
+E201504,2023-10-03,Voluntary,Job too physical
+E200043,2023-10-03,Voluntary,Better pay
+E200212,2023-10-03,Voluntary,Better pay
+E201561,2023-10-04,Voluntary,Found another job
+E200634,2023-10-04,Voluntary,Better pay
+E201124,2023-10-04,Voluntary,Job too physical
+E200321,2023-10-04,Voluntary,Found another job
+E201272,2023-10-04,Voluntary,Found another job
+E201066,2023-10-04,Voluntary,Schedule / shift
+E200014,2023-10-05,Voluntary,Better pay
+E201257,2023-10-07,Voluntary,Found another job
+E200842,2023-10-07,Voluntary,Schedule / shift
+E201426,2023-10-07,Voluntary,Schedule / shift
+E201605,2023-10-08,Voluntary,Found another job
+E200419,2023-10-08,Voluntary,Other
+E200336,2023-10-09,Voluntary,Better pay
+E200363,2023-10-10,Voluntary,Better pay
+E201280,2023-10-12,Voluntary,Better pay
+E200066,2023-10-13,Voluntary,Better pay
+E200176,2023-10-13,Voluntary,Better pay
+E201205,2023-10-16,Voluntary,Schedule / shift
+E200002,2023-10-16,Voluntary,Other
+E201129,2023-10-17,Voluntary,Found another job
+E201560,2023-10-17,Voluntary,Better pay
+E200296,2023-10-17,Voluntary,Relocation
+E201485,2023-10-17,Voluntary,Relocation
+E200029,2023-10-19,Voluntary,Better pay
+E201155,2023-10-19,Voluntary,Job too physical
+E201618,2023-10-20,Voluntary,Schedule / shift
+E201664,2023-10-20,Voluntary,Job too physical
+E201245,2023-10-21,Voluntary,Job too physical
+E201387,2023-10-21,Voluntary,Schedule / shift
+E200122,2023-10-21,Voluntary,Found another job
+E201570,2023-10-21,Involuntary,Attendance
+E200161,2023-10-22,Voluntary,Better pay
+E201604,2023-10-24,Voluntary,Schedule / shift
+E200352,2023-10-25,Voluntary,Better pay
+E201359,2023-10-25,Voluntary,Job too physical
+E201593,2023-10-26,Voluntary,Other
+E201340,2023-10-26,Voluntary,Better pay
+E200100,2023-10-27,Voluntary,Better pay
+E201050,2023-10-27,Voluntary,Found another job
+E201633,2023-10-30,Voluntary,Better pay
+E201491,2023-10-30,Voluntary,Better pay
+E201268,2023-10-30,Voluntary,Schedule / shift
+E200129,2023-10-31,Voluntary,Better pay
+E201290,2023-11-01,Voluntary,Better pay
+E200143,2023-11-01,Voluntary,Found another job
+E200369,2023-11-01,Voluntary,Found another job
+E200069,2023-11-02,Voluntary,Job too physical
+E200747,2023-11-03,Voluntary,Better pay
+E201015,2023-11-03,Voluntary,Better pay
+E201629,2023-11-04,Voluntary,Better pay
+E201341,2023-11-04,Voluntary,Schedule / shift
+E200166,2023-11-04,Voluntary,Found another job
+E201675,2023-11-08,Voluntary,Other
+E201060,2023-11-08,Voluntary,Found another job
+E201325,2023-11-09,Voluntary,Relocation
+E201671,2023-11-10,Voluntary,Better pay
+E200033,2023-11-10,Voluntary,Schedule / shift
+E200968,2023-11-10,Voluntary,Other
+E200006,2023-11-13,Voluntary,Relocation
+E201660,2023-11-14,Involuntary,Safety violation
+E201480,2023-11-14,Voluntary,Better pay
+E200294,2023-11-14,Voluntary,Better pay
+E201566,2023-11-14,Voluntary,Better pay
+E200238,2023-11-14,Voluntary,Job too physical
+E201258,2023-11-15,Voluntary,Relocation
+E201001,2023-11-15,Involuntary,Safety violation
+E200938,2023-11-15,Voluntary,Better pay
+E200839,2023-11-16,Voluntary,Found another job
+E200783,2023-11-17,Voluntary,Relocation
+E200843,2023-11-18,Voluntary,Job too physical
+E201326,2023-11-19,Voluntary,Better pay
+E200433,2023-11-20,Involuntary,Attendance
+E201665,2023-11-21,Voluntary,Found another job
+E200260,2023-11-22,Voluntary,Found another job
+E200543,2023-11-23,Voluntary,Found another job
+E200334,2023-11-24,Voluntary,Better pay
+E201028,2023-11-24,Voluntary,Other
+E200883,2023-11-24,Voluntary,Job too physical
+E200265,2023-11-25,Voluntary,Better pay
+E200111,2023-11-26,Voluntary,Job too physical
+E200463,2023-11-29,Voluntary,Other
+E201279,2023-11-29,Voluntary,Relocation
+E201652,2023-11-29,Voluntary,Better pay
+E201362,2023-11-30,Voluntary,Found another job
+E200683,2023-11-30,Voluntary,Job too physical
+E200348,2023-12-01,Voluntary,Better pay
+E201687,2023-12-01,Voluntary,Other
+E201507,2023-12-03,Voluntary,Job too physical
+E200876,2023-12-04,Voluntary,Better pay
+E201039,2023-12-04,Involuntary,Safety violation
+E200276,2023-12-04,Voluntary,Better pay
+E200318,2023-12-05,Voluntary,Better pay
+E201253,2023-12-05,Voluntary,Found another job
+E201648,2023-12-06,Involuntary,Attendance
+E201423,2023-12-08,Voluntary,Better pay
+E200706,2023-12-08,Involuntary,Attendance
+E200552,2023-12-09,Voluntary,Other
+E201580,2023-12-09,Voluntary,Other
+E200044,2023-12-11,Voluntary,Other
+E201596,2023-12-11,Voluntary,Schedule / shift
+E201165,2023-12-12,Voluntary,Job too physical
+E200249,2023-12-12,Voluntary,Job too physical
+E201514,2023-12-12,Voluntary,Better pay
+E200681,2023-12-13,Involuntary,Attendance
+E201428,2023-12-13,Voluntary,Better pay
+E201630,2023-12-13,Voluntary,Better pay
+E200241,2023-12-14,Voluntary,Schedule / shift
+E201701,2023-12-14,Voluntary,Schedule / shift
+E201501,2023-12-14,Voluntary,Job too physical
+E200960,2023-12-15,Voluntary,Better pay
+E201727,2023-12-15,Voluntary,Job too physical
+E200330,2023-12-17,Voluntary,Schedule / shift
+E201716,2023-12-19,Voluntary,Better pay
+E200913,2023-12-20,Voluntary,Found another job
+E201573,2023-12-20,Voluntary,Better pay
+E200705,2023-12-20,Voluntary,Schedule / shift
+E200714,2023-12-22,Voluntary,Found another job
+E201719,2023-12-27,Voluntary,Found another job
+E200611,2023-12-28,Voluntary,Schedule / shift
+E200298,2023-12-28,Voluntary,Better pay
+E201429,2023-12-28,Voluntary,Other
+E201711,2023-12-29,Voluntary,Better pay
+E201668,2023-12-29,Voluntary,Better pay
+E201591,2023-12-29,Voluntary,Schedule / shift
+E200168,2023-12-29,Voluntary,Better pay
+E200028,2023-12-29,Voluntary,Better pay
+E200392,2023-12-30,Voluntary,Better pay
+E200124,2023-12-30,Voluntary,Job too physical
+E200574,2023-12-30,Involuntary,Attendance
+E201408,2024-01-01,Involuntary,Performance
+E201742,2024-01-02,Voluntary,Found another job
+E200071,2024-01-03,Voluntary,Better pay
+E201283,2024-01-03,Voluntary,Better pay
+E200929,2024-01-04,Involuntary,Performance
+E200058,2024-01-04,Voluntary,Found another job
+E200245,2024-01-04,Voluntary,Better pay
+E200795,2024-01-05,Voluntary,Job too physical
+E201330,2024-01-06,Voluntary,Better pay
+E201732,2024-01-07,Voluntary,Better pay
+E200701,2024-01-08,Voluntary,Found another job
+E200086,2024-01-08,Voluntary,Other
+E201323,2024-01-09,Voluntary,Better pay
+E201771,2024-01-09,Voluntary,Schedule / shift
+E200180,2024-01-09,Voluntary,Better pay
+E200078,2024-01-10,Involuntary,Attendance
+E200113,2024-01-10,Voluntary,Better pay
+E201775,2024-01-11,Voluntary,Job too physical
+E200879,2024-01-14,Voluntary,Schedule / shift
+E200530,2024-01-14,Voluntary,Other
+E201393,2024-01-16,Voluntary,Other
+E200021,2024-01-17,Voluntary,Other
+E200300,2024-01-17,Voluntary,Better pay
+E200282,2024-01-18,Voluntary,Schedule / shift
+E200385,2024-01-19,Voluntary,Relocation
+E200745,2024-01-19,Voluntary,Schedule / shift
+E200963,2024-01-19,Voluntary,Other
+E200630,2024-01-20,Voluntary,Found another job
+E201349,2024-01-21,Voluntary,Job too physical
+E200473,2024-01-21,Voluntary,Found another job
+E201381,2024-01-22,Voluntary,Job too physical
+E200664,2024-01-22,Voluntary,Found another job
+E200325,2024-01-24,Voluntary,Other
+E200109,2024-01-24,Voluntary,Other
+E200727,2024-01-25,Voluntary,Job too physical
+E200498,2024-01-26,Voluntary,Found another job
+E200142,2024-01-27,Voluntary,Found another job
+E201484,2024-01-28,Voluntary,Better pay
+E201307,2024-01-28,Voluntary,Schedule / shift
+E201420,2024-01-30,Voluntary,Better pay
+E201183,2024-01-30,Voluntary,Found another job
+E200824,2024-01-30,Voluntary,Schedule / shift
+E201682,2024-02-01,Voluntary,Schedule / shift
+E201012,2024-02-01,Voluntary,Relocation
+E200063,2024-02-02,Voluntary,Better pay
+E201118,2024-02-02,Voluntary,Schedule / shift
+E200607,2024-02-03,Voluntary,Other
+E200994,2024-02-03,Voluntary,Found another job
+E201489,2024-02-04,Voluntary,Better pay
+E200528,2024-02-05,Voluntary,Other
+E880005,2024-02-05,Voluntary,Other
+E200357,2024-02-05,Voluntary,Better pay
+E201721,2024-02-05,Involuntary,Performance
+E200848,2024-02-06,Voluntary,Better pay
+E200567,2024-02-06,Voluntary,Better pay
+E200022,2024-02-07,Voluntary,Found another job
+E200139,2024-02-08,Voluntary,Better pay
+E201067,2024-02-09,Voluntary,Relocation
+E201641,2024-02-11,Voluntary,Better pay
+E201100,2024-02-11,Voluntary,Better pay
+E200285,2024-02-11,Voluntary,Better pay
+E201499,2024-02-12,Voluntary,Job too physical
+E200831,2024-02-12,Voluntary,Job too physical
+E200529,2024-02-14,Voluntary,Relocation
+E200806,2024-02-15,Voluntary,Job too physical
+E200480,2024-02-15,Voluntary,Found another job
+E200287,2024-02-15,Involuntary,Safety violation
+E201018,2024-02-16,Involuntary,Attendance
+E200462,2024-02-16,Involuntary,Performance
+E201595,2024-02-16,Voluntary,Schedule / shift
+E200608,2024-02-17,Voluntary,Schedule / shift
+E201392,2024-02-18,Voluntary,Other
+E201627,2024-02-19,Voluntary,Schedule / shift
+E200557,2024-02-19,Voluntary,Better pay
+E201413,2024-02-20,Voluntary,Better pay
+E201297,2024-02-20,Involuntary,Attendance
+E201705,2024-02-21,Voluntary,Job too physical
+E201681,2024-02-21,Voluntary,Better pay
+E200087,2024-02-22,Involuntary,Attendance
+E201162,2024-02-22,Involuntary,Safety violation
+E200162,2024-02-24,Voluntary,Better pay
+E200074,2024-02-24,Voluntary,Relocation
+E200128,2024-02-25,Voluntary,Schedule / shift
+E201722,2024-02-25,Voluntary,Found another job
+E201667,2024-02-26,Voluntary,Better pay
+E200825,2024-02-27,Voluntary,Schedule / shift
+E200899,2024-02-29,Voluntary,Better pay
+E200603,2024-03-02,Voluntary,Schedule / shift
+E200987,2024-03-05,Voluntary,Schedule / shift
+E201251,2024-03-05,Voluntary,Better pay
+E201222,2024-03-06,Involuntary,Safety violation
+E201712,2024-03-07,Voluntary,Found another job
+E201278,2024-03-07,Voluntary,Schedule / shift
+E200599,2024-03-08,Voluntary,Schedule / shift
+E200881,2024-03-08,Voluntary,Schedule / shift
+E200306,2024-03-09,Voluntary,Better pay
+E201444,2024-03-10,Voluntary,Job too physical
+E201256,2024-03-11,Voluntary,Found another job
+E200130,2024-03-11,Voluntary,Found another job
+E201141,2024-03-11,Voluntary,Schedule / shift
+E200659,2024-03-11,Voluntary,Job too physical
+E201730,2024-03-13,Voluntary,Found another job
+E200895,2024-03-14,Voluntary,Other
+E200738,2024-03-15,Voluntary,Schedule / shift
+E201818,2024-03-17,Voluntary,Other
+E200224,2024-03-17,Voluntary,Found another job
+E200475,2024-03-17,Involuntary,Attendance
+E200909,2024-03-18,Involuntary,Attendance
+E200125,2024-03-18,Voluntary,Better pay
+E201076,2024-03-19,Voluntary,Better pay
+E200921,2024-03-19,Voluntary,Better pay
+E201753,2024-03-19,Voluntary,Job too physical
+E201737,2024-03-20,Voluntary,Better pay
+E200019,2024-03-20,Voluntary,Other
+E201832,2024-03-21,Voluntary,Job too physical
+E201337,2024-03-21,Voluntary,Better pay
+E201168,2024-03-22,Involuntary,Performance
+E201549,2024-03-22,Voluntary,Schedule / shift
+E201086,2024-03-23,Voluntary,Schedule / shift
+E200982,2024-03-24,Voluntary,Found another job
+E200717,2024-03-24,Voluntary,Schedule / shift
+E201336,2024-03-25,Voluntary,Better pay
+E201369,2024-03-25,Voluntary,Job too physical
+E201792,2024-03-26,Voluntary,Job too physical
+E200301,2024-03-26,Voluntary,Better pay
+E201171,2024-03-27,Voluntary,Schedule / shift
+E200269,2024-03-27,Voluntary,Found another job
+E200210,2024-03-28,Voluntary,Better pay
+E200070,2024-03-28,Involuntary,Policy violation
+E201751,2024-03-30,Voluntary,Better pay
+E200368,2024-03-30,Voluntary,Better pay
+E200505,2024-04-01,Voluntary,Schedule / shift
+E201884,2024-04-01,Voluntary,Schedule / shift
+E201264,2024-04-04,Voluntary,Schedule / shift
+E201717,2024-04-04,Voluntary,Other
+E201634,2024-04-05,Voluntary,Found another job
+E200651,2024-04-07,Involuntary,Policy violation
+E201522,2024-04-08,Involuntary,Safety violation
+E201029,2024-04-09,Voluntary,Job too physical
+E200383,2024-04-10,Voluntary,Found another job
+E201398,2024-04-11,Voluntary,Relocation
+E200472,2024-04-11,Voluntary,Schedule / shift
+E201482,2024-04-11,Voluntary,Schedule / shift
+E201768,2024-04-12,Voluntary,Job too physical
+E201878,2024-04-14,Voluntary,Schedule / shift
+E200822,2024-04-15,Voluntary,Schedule / shift
+E201623,2024-04-16,Voluntary,Better pay
+E201146,2024-04-18,Voluntary,Job too physical
+E200211,2024-04-18,Voluntary,Job too physical
+E200093,2024-04-21,Voluntary,Better pay
+E201628,2024-04-21,Involuntary,Attendance
+E201494,2024-04-21,Voluntary,Schedule / shift
+E201038,2024-04-22,Involuntary,Attendance
+E200917,2024-04-22,Voluntary,Better pay
+E201744,2024-04-23,Voluntary,Better pay
+E200877,2024-04-25,Voluntary,Job too physical
+E200669,2024-04-25,Voluntary,Relocation
+E201785,2024-04-25,Voluntary,Better pay
+E200542,2024-04-27,Involuntary,Attendance
+E200575,2024-04-28,Voluntary,Better pay
+E201718,2024-04-28,Voluntary,Better pay
+E200907,2024-04-29,Voluntary,Schedule / shift
+E200137,2024-04-30,Voluntary,Better pay
+E200104,2024-04-30,Voluntary,Schedule / shift
+E200107,2024-05-01,Voluntary,Better pay
+E200365,2024-05-03,Voluntary,Other
+E200873,2024-05-05,Voluntary,Schedule / shift
+E200723,2024-05-05,Involuntary,Attendance
+E201870,2024-05-05,Voluntary,Job too physical
+E201907,2024-05-08,Voluntary,Better pay
+E201201,2024-05-10,Voluntary,Job too physical
+E201410,2024-05-10,Involuntary,Performance
+E201746,2024-05-11,Voluntary,Found another job
+E201642,2024-05-12,Voluntary,Schedule / shift
+E200884,2024-05-12,Voluntary,Better pay
+E201945,2024-05-12,Voluntary,Schedule / shift
+E201122,2024-05-13,Involuntary,Attendance
+E201676,2024-05-14,Voluntary,Better pay
+E201817,2024-05-14,Voluntary,Found another job
+E201683,2024-05-14,Involuntary,Attendance
+E200227,2024-05-15,Voluntary,Better pay
+E201709,2024-05-15,Voluntary,Better pay
+E201704,2024-05-16,Voluntary,Found another job
+E201415,2024-05-16,Voluntary,Better pay
+E201281,2024-05-17,Voluntary,Schedule / shift
+E201953,2024-05-18,Voluntary,Better pay
+E201938,2024-05-18,Voluntary,Schedule / shift
+E201824,2024-05-19,Voluntary,Schedule / shift
+E201295,2024-05-20,Involuntary,Performance
+E201947,2024-05-21,Voluntary,Other
+E201412,2024-05-21,Voluntary,Relocation
+E201572,2024-05-22,Voluntary,Better pay
+E201849,2024-05-22,Voluntary,Relocation
+E200205,2024-05-22,Voluntary,Better pay
+E201906,2024-05-22,Voluntary,Job too physical
+E200134,2024-05-23,Voluntary,Schedule / shift
+E201888,2024-05-24,Voluntary,Job too physical
+E200718,2024-05-24,Voluntary,Better pay
+E200275,2024-05-25,Voluntary,Relocation
+E200178,2024-05-25,Voluntary,Better pay
+E201575,2024-05-26,Voluntary,Schedule / shift
+E200420,2024-05-27,Voluntary,Found another job
+E201942,2024-05-29,Voluntary,Other
+E201917,2024-05-30,Voluntary,Relocation
+E200440,2024-05-30,Voluntary,Other
+E201729,2024-05-30,Voluntary,Better pay
+E201954,2024-06-01,Voluntary,Better pay
+E201912,2024-06-01,Voluntary,Found another job
+E201661,2024-06-02,Voluntary,Schedule / shift
+E201802,2024-06-03,Voluntary,Relocation
+E200192,2024-06-03,Voluntary,Schedule / shift
+E201736,2024-06-03,Voluntary,Better pay
+E200836,2024-06-04,Involuntary,Attendance
+E200601,2024-06-04,Voluntary,Better pay
+E200716,2024-06-05,Voluntary,Job too physical
+E200819,2024-06-06,Voluntary,Job too physical
+E202011,2024-06-06,Voluntary,Relocation
+E201877,2024-06-06,Voluntary,Schedule / shift
+E201117,2024-06-06,Involuntary,Attendance
+E201563,2024-06-06,Voluntary,Better pay
+E200039,2024-06-06,Voluntary,Better pay
+E200327,2024-06-08,Voluntary,Schedule / shift
+E201966,2024-06-10,Voluntary,Job too physical
+E201745,2024-06-10,Voluntary,Better pay
+E202009,2024-06-11,Involuntary,Attendance
+E200246,2024-06-11,Voluntary,Better pay
+E201632,2024-06-11,Voluntary,Schedule / shift
+E200722,2024-06-12,Voluntary,Better pay
+E201707,2024-06-12,Voluntary,Better pay
+E201635,2024-06-12,Voluntary,Better pay
+E201405,2024-06-13,Voluntary,Schedule / shift
+E200102,2024-06-13,Voluntary,Found another job
+E201842,2024-06-15,Voluntary,Better pay
+E200673,2024-06-16,Voluntary,Schedule / shift
+E200624,2024-06-19,Involuntary,Performance
+E200636,2024-06-20,Voluntary,Job too physical
+E201592,2024-06-20,Involuntary,Safety violation
+E202036,2024-06-20,Voluntary,Schedule / shift
+E201331,2024-06-22,Voluntary,Better pay
+E201581,2024-06-23,Voluntary,Found another job
+E201925,2024-06-24,Voluntary,Job too physical
+E201332,2024-06-25,Voluntary,Other
+E201454,2024-06-25,Voluntary,Job too physical
+E201835,2024-06-25,Voluntary,Better pay
+E201962,2024-06-26,Voluntary,Found another job
+E200207,2024-06-27,Voluntary,Better pay
+E201763,2024-06-27,Voluntary,Better pay
+E201649,2024-06-28,Involuntary,Attendance
+E200026,2024-06-29,Voluntary,Better pay
+E200371,2024-06-30,Voluntary,Better pay
+E201466,2024-06-30,Voluntary,Schedule / shift
+E200007,2024-06-30,Voluntary,Better pay
+E201031,2024-07-01,Voluntary,Job too physical
+E200377,2024-07-02,Voluntary,Relocation
+E200003,2024-07-02,Voluntary,Other
+E202107,2024-07-03,Voluntary,Found another job
+E201805,2024-07-03,Voluntary,Schedule / shift
+E201929,2024-07-04,Voluntary,Better pay
+E200730,2024-07-04,Involuntary,Safety violation
+E201757,2024-07-04,Voluntary,Found another job
+E200891,2024-07-05,Involuntary,Safety violation
+E201061,2024-07-05,Voluntary,Better pay
+E201439,2024-07-07,Voluntary,Found another job
+E200255,2024-07-07,Voluntary,Better pay
+E200786,2024-07-08,Involuntary,Policy violation
+E200711,2024-07-09,Voluntary,Schedule / shift
+E201893,2024-07-10,Voluntary,Relocation
+E200808,2024-07-10,Voluntary,Schedule / shift
+E201223,2024-07-10,Voluntary,Found another job
+E200337,2024-07-11,Voluntary,Better pay
+E201540,2024-07-11,Voluntary,Schedule / shift
+E201795,2024-07-11,Voluntary,Better pay
+E200447,2024-07-12,Voluntary,Job too physical
+E200941,2024-07-12,Voluntary,Relocation
+E201414,2024-07-12,Voluntary,Better pay
+E200393,2024-07-12,Voluntary,Schedule / shift
+E201218,2024-07-14,Voluntary,Found another job
+E201765,2024-07-14,Involuntary,Safety violation
+E201992,2024-07-14,Voluntary,Schedule / shift
+E202018,2024-07-14,Voluntary,Job too physical
+E201959,2024-07-15,Voluntary,Schedule / shift
+E202120,2024-07-16,Voluntary,Schedule / shift
+E202014,2024-07-17,Voluntary,Found another job
+E200341,2024-07-17,Voluntary,Better pay
+E201119,2024-07-18,Voluntary,Schedule / shift
+E202026,2024-07-18,Voluntary,Job too physical
+E202022,2024-07-19,Voluntary,Schedule / shift
+E200208,2024-07-20,Voluntary,Job too physical
+E201431,2024-07-23,Voluntary,Schedule / shift
+E200479,2024-07-23,Involuntary,Safety violation
+E200384,2024-07-24,Voluntary,Schedule / shift
+E201702,2024-07-24,Involuntary,Attendance
+E201497,2024-07-25,Voluntary,Other
+E201803,2024-07-26,Voluntary,Schedule / shift
+E200174,2024-07-26,Voluntary,Job too physical
+E200232,2024-07-26,Voluntary,Schedule / shift
+E201828,2024-07-27,Voluntary,Found another job
+E201754,2024-07-27,Voluntary,Found another job
+E201986,2024-07-27,Voluntary,Better pay
+E202039,2024-07-28,Voluntary,Job too physical
+E201957,2024-07-28,Voluntary,Schedule / shift
+E200431,2024-07-29,Voluntary,Found another job
+E201670,2024-07-29,Voluntary,Better pay
+E201417,2024-07-30,Voluntary,Better pay
+E201169,2024-07-30,Voluntary,Schedule / shift
+E201333,2024-07-31,Involuntary,Attendance
+E201896,2024-07-31,Voluntary,Better pay
+E200049,2024-08-01,Voluntary,Better pay
+E202109,2024-08-02,Voluntary,Schedule / shift
+E202119,2024-08-03,Voluntary,Found another job
+E200628,2024-08-03,Voluntary,Other
+E202118,2024-08-05,Voluntary,Job too physical
+E200020,2024-08-06,Voluntary,Relocation
+E200687,2024-08-06,Voluntary,Schedule / shift
+E201788,2024-08-07,Voluntary,Found another job
+E202043,2024-08-07,Voluntary,Better pay
+E202193,2024-08-07,Voluntary,Found another job
+E201708,2024-08-08,Voluntary,Better pay
+E201284,2024-08-08,Voluntary,Schedule / shift
+E202129,2024-08-08,Voluntary,Schedule / shift
+E202081,2024-08-09,Voluntary,Schedule / shift
+E202177,2024-08-09,Voluntary,Job too physical
+E202163,2024-08-10,Involuntary,Attendance
+E201904,2024-08-10,Voluntary,Better pay
+E201706,2024-08-10,Voluntary,Better pay
+E201833,2024-08-12,Voluntary,Other
+E202161,2024-08-12,Involuntary,Safety violation
+E201879,2024-08-13,Voluntary,Better pay
+E200151,2024-08-15,Voluntary,Better pay
+E201797,2024-08-15,Voluntary,Better pay
+E201902,2024-08-16,Voluntary,Better pay
+E201940,2024-08-18,Voluntary,Found another job
+E201913,2024-08-18,Voluntary,Found another job
+E200466,2024-08-19,Voluntary,Other
+E201933,2024-08-20,Involuntary,Attendance
+E201058,2024-08-21,Voluntary,Job too physical
+E202093,2024-08-21,Voluntary,Schedule / shift
+E201973,2024-08-21,Voluntary,Schedule / shift
+E201534,2024-08-21,Voluntary,Found another job
+E201673,2024-08-22,Voluntary,Schedule / shift
+E201042,2024-08-22,Voluntary,Other
+E201009,2024-08-22,Voluntary,Job too physical
+E201250,2024-08-23,Voluntary,Found another job
+E201320,2024-08-23,Voluntary,Better pay
+E200117,2024-08-25,Voluntary,Better pay
+E201555,2024-08-26,Involuntary,Performance
+E202192,2024-08-26,Voluntary,Job too physical
+E201974,2024-08-26,Voluntary,Better pay
+E201909,2024-08-27,Voluntary,Found another job
+E201747,2024-08-27,Voluntary,Found another job
+E200302,2024-08-28,Voluntary,Better pay
+E202013,2024-08-28,Involuntary,Attendance
+E201677,2024-08-28,Voluntary,Better pay
+E202172,2024-08-29,Voluntary,Found another job
+E200153,2024-08-29,Voluntary,Better pay
+E201479,2024-08-29,Voluntary,Better pay
+E202034,2024-08-29,Voluntary,Schedule / shift
+E201748,2024-08-29,Voluntary,Schedule / shift
+E201154,2024-08-30,Voluntary,Relocation
+E200731,2024-08-31,Voluntary,Schedule / shift
+E202125,2024-08-31,Voluntary,Job too physical
+E201852,2024-08-31,Voluntary,Relocation
+E201131,2024-08-31,Involuntary,Attendance
+E200054,2024-08-31,Voluntary,Better pay
+E201851,2024-09-02,Voluntary,Better pay
+E201559,2024-09-02,Voluntary,Better pay
+E202191,2024-09-05,Voluntary,Better pay
+E200916,2024-09-06,Voluntary,Schedule / shift
+E200056,2024-09-06,Voluntary,Better pay
+E200793,2024-09-07,Voluntary,Better pay
+E201764,2024-09-07,Voluntary,Better pay
+E200165,2024-09-07,Voluntary,Better pay
+E201866,2024-09-08,Voluntary,Schedule / shift
+E201285,2024-09-08,Voluntary,Better pay
+E201259,2024-09-08,Voluntary,Relocation
+E201982,2024-09-09,Voluntary,Better pay
+E200763,2024-09-09,Voluntary,Schedule / shift
+E200096,2024-09-10,Voluntary,Schedule / shift
+E202051,2024-09-11,Voluntary,Other
+E202223,2024-09-11,Voluntary,Schedule / shift
+E200620,2024-09-11,Voluntary,Found another job
+E201132,2024-09-11,Voluntary,Found another job
+E202008,2024-09-11,Voluntary,Job too physical
+E202105,2024-09-11,Voluntary,Schedule / shift
+E200257,2024-09-12,Voluntary,Better pay
+E201470,2024-09-12,Involuntary,Safety violation
+E202166,2024-09-13,Voluntary,Schedule / shift
+E200141,2024-09-13,Voluntary,Job too physical
+E200815,2024-09-13,Voluntary,Schedule / shift
+E202252,2024-09-14,Voluntary,Better pay
+E201619,2024-09-14,Voluntary,Schedule / shift
+E202064,2024-09-14,Voluntary,Other
+E200625,2024-09-14,Voluntary,Other
+E200532,2024-09-15,Voluntary,Schedule / shift
+E201160,2024-09-16,Voluntary,Better pay
+E200999,2024-09-16,Voluntary,Schedule / shift
+E202217,2024-09-16,Voluntary,Found another job
+E202175,2024-09-16,Voluntary,Schedule / shift
+E201159,2024-09-17,Voluntary,Schedule / shift
+E200753,2024-09-17,Voluntary,Job too physical
+E202079,2024-09-18,Voluntary,Found another job
+E202244,2024-09-18,Voluntary,Found another job
+E201787,2024-09-19,Voluntary,Found another job
+E200144,2024-09-19,Voluntary,Found another job
+E202234,2024-09-19,Voluntary,Schedule / shift
+E201738,2024-09-21,Voluntary,Better pay
+E201865,2024-09-21,Voluntary,Job too physical
+E202231,2024-09-22,Voluntary,Found another job
+E201720,2024-09-24,Voluntary,Relocation
+E200632,2024-09-24,Voluntary,Better pay
+E200801,2024-09-24,Voluntary,Schedule / shift
+E201556,2024-09-25,Voluntary,Found another job
+E201293,2024-09-27,Voluntary,Schedule / shift
+E201360,2024-09-27,Voluntary,Found another job
+E202208,2024-09-28,Voluntary,Better pay
+E202239,2024-09-28,Voluntary,Schedule / shift
+E201613,2024-09-29,Voluntary,Schedule / shift
+E201442,2024-09-30,Voluntary,Other
+E201777,2024-09-30,Voluntary,Better pay
+E202132,2024-10-01,Voluntary,Found another job
+E202168,2024-10-01,Voluntary,Schedule / shift
+E201458,2024-10-01,Voluntary,Schedule / shift
+E200230,2024-10-02,Involuntary,Policy violation
+E201976,2024-10-02,Voluntary,Better pay
+E201533,2024-10-02,Voluntary,Job too physical
+E202103,2024-10-02,Voluntary,Better pay
+E202284,2024-10-02,Voluntary,Schedule / shift
+E201564,2024-10-03,Voluntary,Found another job
+E202169,2024-10-03,Voluntary,Better pay
+E200240,2024-10-04,Voluntary,Relocation
+E201110,2024-10-04,Voluntary,Better pay
+E201919,2024-10-05,Voluntary,Other
+E201114,2024-10-06,Voluntary,Better pay
+E201286,2024-10-07,Voluntary,Better pay
+E202076,2024-10-08,Voluntary,Relocation
+E201867,2024-10-08,Voluntary,Better pay
+E202258,2024-10-09,Voluntary,Relocation
+E202235,2024-10-10,Voluntary,Job too physical
+E200861,2024-10-10,Voluntary,Schedule / shift
+E201445,2024-10-10,Voluntary,Found another job
+E201911,2024-10-11,Voluntary,Job too physical
+E201914,2024-10-11,Voluntary,Schedule / shift
+E202279,2024-10-12,Voluntary,Job too physical
+E200682,2024-10-13,Voluntary,Job too physical
+E202020,2024-10-13,Voluntary,Found another job
+E201735,2024-10-13,Voluntary,Better pay
+E200758,2024-10-14,Voluntary,Better pay
+E202250,2024-10-15,Voluntary,Schedule / shift
+E201492,2024-10-16,Voluntary,Better pay
+E201846,2024-10-17,Voluntary,Better pay
+E202075,2024-10-17,Voluntary,Better pay
+E200452,2024-10-17,Voluntary,Better pay
+E200154,2024-10-19,Voluntary,Better pay
+E202131,2024-10-19,Voluntary,Relocation
+E202058,2024-10-19,Voluntary,Better pay
+E200597,2024-10-20,Voluntary,Better pay
+E201567,2024-10-20,Voluntary,Found another job
+E201895,2024-10-20,Voluntary,Job too physical
+E202050,2024-10-21,Voluntary,Better pay
+E200408,2024-10-21,Voluntary,Schedule / shift
+E201443,2024-10-22,Voluntary,Found another job
+E202291,2024-10-24,Voluntary,Job too physical
+E200856,2024-10-28,Voluntary,Found another job
+E201424,2024-10-28,Voluntary,Other
+E200164,2024-10-29,Voluntary,Better pay
+E201658,2024-10-30,Voluntary,Job too physical
+E202267,2024-10-31,Voluntary,Relocation
+E202200,2024-11-01,Voluntary,Better pay
+E201928,2024-11-01,Voluntary,Job too physical
+E201276,2024-11-03,Voluntary,Better pay
+E201626,2024-11-04,Voluntary,Better pay
+E201112,2024-11-04,Voluntary,Better pay
+E200707,2024-11-04,Voluntary,Schedule / shift
+E202098,2024-11-06,Voluntary,Job too physical
+E202032,2024-11-06,Voluntary,Job too physical
+E202297,2024-11-09,Involuntary,Policy violation
+E200344,2024-11-10,Involuntary,Policy violation
+E201176,2024-11-11,Voluntary,Schedule / shift
+E202266,2024-11-12,Involuntary,Policy violation
+E202271,2024-11-12,Voluntary,Relocation
+E201858,2024-11-13,Voluntary,Found another job
+E200322,2024-11-15,Voluntary,Better pay
+E200998,2024-11-15,Voluntary,Found another job
+E201374,2024-11-16,Involuntary,Performance
+E200226,2024-11-16,Voluntary,Better pay
+E201857,2024-11-18,Voluntary,Better pay
+E201637,2024-11-18,Voluntary,Found another job
+E202245,2024-11-20,Voluntary,Schedule / shift
+E201396,2024-11-20,Involuntary,Attendance
+E201232,2024-11-23,Voluntary,Schedule / shift
+E200184,2024-11-23,Voluntary,Better pay
+E201759,2024-11-23,Voluntary,Better pay
+E201801,2024-11-27,Voluntary,Found another job
+E201910,2024-11-27,Voluntary,Better pay
+E202260,2024-11-29,Voluntary,Found another job
+E202080,2024-11-29,Voluntary,Better pay
+E200581,2024-12-01,Voluntary,Job too physical
+E202152,2024-12-01,Voluntary,Better pay
+E201624,2024-12-01,Voluntary,Relocation
+E200467,2024-12-02,Voluntary,Other
+E200553,2024-12-03,Voluntary,Schedule / shift
+E201836,2024-12-03,Voluntary,Found another job
+E201094,2024-12-03,Voluntary,Schedule / shift
+E201669,2024-12-03,Voluntary,Better pay
+E201999,2024-12-03,Voluntary,Schedule / shift
+E200690,2024-12-03,Involuntary,Policy violation
+E200110,2024-12-03,Voluntary,Schedule / shift
+E201586,2024-12-04,Voluntary,Schedule / shift
+E200888,2024-12-04,Voluntary,Schedule / shift
+E202311,2024-12-07,Voluntary,Better pay
+E201790,2024-12-07,Voluntary,Schedule / shift
+E202332,2024-12-08,Voluntary,Schedule / shift
+E202052,2024-12-08,Involuntary,Attendance
+E200146,2024-12-10,Voluntary,Schedule / shift
+E200617,2024-12-11,Involuntary,Safety violation
+E200179,2024-12-13,Voluntary,Better pay
+E202184,2024-12-13,Involuntary,Safety violation
+E202003,2024-12-13,Voluntary,Better pay
+E202316,2024-12-14,Voluntary,Job too physical
+E201577,2024-12-15,Voluntary,Schedule / shift
+E202074,2024-12-16,Voluntary,Better pay
+E200258,2024-12-16,Voluntary,Job too physical
+E202282,2024-12-17,Voluntary,Schedule / shift
+E200655,2024-12-18,Voluntary,Job too physical
+E201761,2024-12-18,Voluntary,Better pay
+E201355,2024-12-18,Voluntary,Relocation
+E200721,2024-12-19,Voluntary,Schedule / shift
+E201174,2024-12-19,Voluntary,Better pay
+E202176,2024-12-19,Voluntary,Better pay
+E200438,2024-12-19,Voluntary,Other
+E201539,2024-12-22,Voluntary,Better pay
+E202021,2024-12-22,Voluntary,Found another job
+E200316,2024-12-23,Involuntary,Policy violation
+E201750,2024-12-23,Voluntary,Found another job
+E202214,2024-12-23,Voluntary,Found another job
+E201767,2024-12-23,Voluntary,Other
+E202314,2024-12-24,Voluntary,Schedule / shift
+E201674,2024-12-24,Voluntary,Better pay
+E201049,2024-12-25,Voluntary,Better pay
+E202268,2024-12-27,Voluntary,Better pay
+E201206,2024-12-27,Voluntary,Found another job
+E202232,2024-12-28,Voluntary,Other
+E201093,2024-12-28,Voluntary,Better pay
+E200510,2024-12-29,Voluntary,Job too physical
+E202276,2024-12-29,Voluntary,Schedule / shift
+E202041,2024-12-29,Voluntary,Schedule / shift
+E200555,2024-12-29,Voluntary,Schedule / shift
+E201182,2024-12-29,Voluntary,Job too physical
+E200112,2024-12-30,Voluntary,Better pay
+E202264,2024-12-31,Voluntary,Better pay
+E201376,2025-01-01,Voluntary,Schedule / shift
+E200340,2025-01-02,Voluntary,Schedule / shift
+E202236,2025-01-05,Voluntary,Found another job
+E201881,2025-01-05,Voluntary,Job too physical
+E200470,2025-01-06,Voluntary,Relocation
+E200343,2025-01-06,Voluntary,Better pay
+E200138,2025-01-07,Voluntary,Found another job
+E201404,2025-01-08,Voluntary,Found another job
+E201282,2025-01-10,Voluntary,Found another job
+E201075,2025-01-11,Voluntary,Relocation
+E202204,2025-01-11,Voluntary,Job too physical
+E201883,2025-01-12,Voluntary,Better pay
+E200253,2025-01-12,Voluntary,Better pay
+E201328,2025-01-15,Voluntary,Found another job
+E202207,2025-01-15,Voluntary,Better pay
+E201699,2025-01-17,Voluntary,Schedule / shift
+E202281,2025-01-18,Involuntary,Attendance
+E202143,2025-01-18,Voluntary,Better pay
+E200942,2025-01-18,Involuntary,Policy violation
+E202090,2025-01-18,Voluntary,Schedule / shift
+E201411,2025-01-18,Voluntary,Relocation
+E202344,2025-01-19,Voluntary,Better pay
+E201053,2025-01-19,Voluntary,Found another job
+E200936,2025-01-19,Voluntary,Better pay
+E200231,2025-01-20,Voluntary,Better pay
+E201263,2025-01-21,Voluntary,Schedule / shift
+E201192,2025-01-24,Involuntary,Attendance
+E202211,2025-01-24,Voluntary,Better pay
+E200494,2025-01-24,Voluntary,Job too physical
+E201450,2025-01-25,Voluntary,Found another job
+E201778,2025-01-25,Voluntary,Relocation
+E201126,2025-01-25,Involuntary,Policy violation
+E201979,2025-01-26,Voluntary,Schedule / shift
+E201321,2025-01-27,Voluntary,Other
+E200450,2025-01-28,Voluntary,Found another job
+E202061,2025-01-29,Voluntary,Better pay
+E201224,2025-01-29,Voluntary,Relocation
+E201783,2025-01-30,Voluntary,Found another job
+E200955,2025-02-01,Voluntary,Relocation
+E201779,2025-02-02,Voluntary,Found another job
+E200432,2025-02-02,Involuntary,Policy violation
+E200220,2025-02-02,Voluntary,Better pay
+E202348,2025-02-03,Voluntary,Job too physical
+E200945,2025-02-03,Voluntary,Better pay
+E201749,2025-02-03,Voluntary,Other
+E200514,2025-02-04,Voluntary,Found another job
+E202035,2025-02-05,Voluntary,Schedule / shift
+E201318,2025-02-09,Voluntary,Schedule / shift
+E202362,2025-02-09,Voluntary,Better pay
+E202078,2025-02-11,Voluntary,Better pay
+E202336,2025-02-12,Voluntary,Better pay
+E201770,2025-02-13,Voluntary,Found another job
+E201241,2025-02-14,Voluntary,Other
+E201388,2025-02-14,Voluntary,Other
+E200526,2025-02-15,Voluntary,Schedule / shift
+E202357,2025-02-15,Voluntary,Relocation
+E202343,2025-02-17,Voluntary,Better pay
+E201407,2025-02-17,Voluntary,Found another job
+E202033,2025-02-17,Voluntary,Schedule / shift
+E200925,2025-02-17,Voluntary,Better pay
+E202329,2025-02-18,Voluntary,Relocation
+E202241,2025-02-19,Voluntary,Better pay
+E201991,2025-02-20,Voluntary,Schedule / shift
+E201477,2025-02-20,Voluntary,Other
+E201590,2025-02-20,Voluntary,Better pay
+E200754,2025-02-20,Voluntary,Other
+E201685,2025-02-20,Voluntary,Better pay
+E200267,2025-02-21,Voluntary,Relocation
+E200067,2025-02-23,Voluntary,Better pay
+E200455,2025-02-23,Voluntary,Found another job
+E202209,2025-02-24,Voluntary,Relocation
+E201975,2025-02-24,Voluntary,Better pay
+E200115,2025-02-25,Voluntary,Better pay
+E202139,2025-02-25,Voluntary,Better pay
+E200653,2025-02-26,Voluntary,Schedule / shift
+E201277,2025-02-26,Voluntary,Other
+E201508,2025-02-26,Voluntary,Better pay
+E202304,2025-02-28,Voluntary,Found another job
+E200702,2025-03-03,Voluntary,Better pay
+E201961,2025-03-03,Voluntary,Found another job
+E201353,2025-03-03,Involuntary,Attendance
+E201733,2025-03-04,Voluntary,Found another job
+E200372,2025-03-04,Voluntary,Found another job
+E202178,2025-03-04,Voluntary,Schedule / shift
+E200355,2025-03-05,Involuntary,Safety violation
+E200209,2025-03-07,Voluntary,Found another job
+E200262,2025-03-08,Voluntary,Found another job
+E202065,2025-03-09,Voluntary,Better pay
+E202137,2025-03-11,Involuntary,Attendance
+E201006,2025-03-13,Voluntary,Schedule / shift
+E202387,2025-03-15,Voluntary,Better pay
+E201834,2025-03-16,Voluntary,Found another job
+E202302,2025-03-16,Voluntary,Found another job
+E201528,2025-03-16,Involuntary,Attendance
+E201640,2025-03-17,Involuntary,Safety violation
+E202148,2025-03-18,Voluntary,Found another job
+E200885,2025-03-20,Retirement,Retirement
+E202085,2025-03-20,Involuntary,Policy violation
+E202025,2025-03-20,Voluntary,Schedule / shift
+E201774,2025-03-21,Voluntary,Job too physical
+E202407,2025-03-21,Voluntary,Better pay
+E201044,2025-03-22,Voluntary,Schedule / shift
+E201437,2025-03-22,Voluntary,Found another job
+E200637,2025-03-22,Voluntary,Job too physical
+E201455,2025-03-22,Voluntary,Better pay
+E200283,2025-03-24,Voluntary,Schedule / shift
+E202331,2025-03-24,Voluntary,Better pay
+E202084,2025-03-25,Voluntary,Found another job
+E201502,2025-03-26,Involuntary,Performance
+E202221,2025-03-26,Voluntary,Better pay
+E200646,2025-03-27,Voluntary,Schedule / shift
+E201948,2025-03-27,Voluntary,Schedule / shift
+E201399,2025-03-29,Voluntary,Job too physical
+E200103,2025-03-29,Voluntary,Better pay
+E202388,2025-03-29,Voluntary,Better pay
+E201780,2025-03-30,Voluntary,Found another job
+E202097,2025-03-31,Involuntary,Attendance
+E201958,2025-03-31,Voluntary,Better pay
+E201370,2025-04-01,Voluntary,Job too physical
+E200586,2025-04-01,Retirement,Retirement
+E202395,2025-04-02,Voluntary,Found another job
+E202306,2025-04-02,Voluntary,Found another job
+E200857,2025-04-02,Voluntary,Schedule / shift
+E202130,2025-04-02,Voluntary,Better pay
+E201815,2025-04-03,Voluntary,Better pay
+E201105,2025-04-06,Voluntary,Schedule / shift
+E200513,2025-04-06,Involuntary,Attendance
+E201212,2025-04-06,Voluntary,Schedule / shift
+E201249,2025-04-06,Voluntary,Better pay
+E202445,2025-04-06,Voluntary,Schedule / shift
+E200338,2025-04-07,Voluntary,Schedule / shift
+E201148,2025-04-07,Voluntary,Found another job
+E202380,2025-04-08,Voluntary,Better pay
+E202206,2025-04-08,Voluntary,Better pay
+E201335,2025-04-09,Voluntary,Found another job
+E201710,2025-04-09,Voluntary,Relocation
+E201796,2025-04-09,Voluntary,Found another job
+E202434,2025-04-09,Voluntary,Schedule / shift
+E201197,2025-04-09,Involuntary,Attendance
+E200816,2025-04-11,Voluntary,Schedule / shift
+E200429,2025-04-11,Voluntary,Schedule / shift
+E202396,2025-04-11,Voluntary,Better pay
+E201723,2025-04-12,Voluntary,Better pay
+E202412,2025-04-12,Voluntary,Found another job
+E200010,2025-04-13,Voluntary,Better pay
+E201219,2025-04-13,Voluntary,Schedule / shift
+E201806,2025-04-14,Voluntary,Relocation
+E201025,2025-04-15,Voluntary,Better pay
+E202386,2025-04-17,Voluntary,Better pay
+E201714,2025-04-18,Voluntary,Better pay
+E201656,2025-04-18,Voluntary,Found another job
+E202353,2025-04-20,Involuntary,Attendance
+E202028,2025-04-21,Voluntary,Found another job
+E200660,2025-04-21,Involuntary,Policy violation
+E202450,2025-04-21,Voluntary,Schedule / shift
+E201512,2025-04-21,Voluntary,Schedule / shift
+E201565,2025-04-21,Voluntary,Better pay
+E202055,2025-04-22,Voluntary,Better pay
+E201739,2025-04-22,Voluntary,Relocation
+E202144,2025-04-23,Voluntary,Better pay
+E202256,2025-04-25,Voluntary,Better pay
+E200958,2025-04-26,Voluntary,Schedule / shift
+E201752,2025-04-26,Voluntary,Other
+E201988,2025-04-26,Voluntary,Other
+E200188,2025-04-26,Voluntary,Better pay
+E202462,2025-04-27,Voluntary,Schedule / shift
+E200263,2025-04-27,Voluntary,Better pay
+E200223,2025-04-28,Voluntary,Found another job
+E200274,2025-04-28,Voluntary,Better pay
+E200509,2025-04-29,Involuntary,Attendance
+E202153,2025-04-29,Voluntary,Better pay
+E202373,2025-04-30,Voluntary,Better pay
+E200324,2025-04-30,Voluntary,Found another job
+E201631,2025-04-30,Voluntary,Found another job
+E201971,2025-04-30,Voluntary,Better pay
+E200703,2025-04-30,Voluntary,Schedule / shift
+E201901,2025-05-01,Voluntary,Other
+E200616,2025-05-01,Voluntary,Better pay
+E202413,2025-05-01,Voluntary,Schedule / shift
+E202054,2025-05-01,Voluntary,Better pay
+E202561,2025-05-01,Voluntary,Schedule / shift
+E202126,2025-05-02,Voluntary,Better pay
+E202554,2025-05-02,Voluntary,Schedule / shift
+E201339,2025-05-02,Voluntary,Better pay
+E200492,2025-05-04,Voluntary,Job too physical
+E202414,2025-05-05,Voluntary,Schedule / shift
+E201822,2025-05-07,Involuntary,Performance
+E201037,2025-05-08,Voluntary,Relocation
+E202335,2025-05-08,Voluntary,Better pay
+E201324,2025-05-08,Voluntary,Relocation
+E202023,2025-05-09,Voluntary,Better pay
+E200995,2025-05-09,Voluntary,Job too physical
+E202296,2025-05-14,Voluntary,Better pay
+E201800,2025-05-14,Voluntary,Better pay
+E201065,2025-05-14,Voluntary,Job too physical
+E202539,2025-05-15,Voluntary,Schedule / shift
+E202417,2025-05-15,Voluntary,Schedule / shift
+E202493,2025-05-16,Voluntary,Better pay
+E202435,2025-05-17,Voluntary,Better pay
+E202409,2025-05-17,Voluntary,Found another job
+E202333,2025-05-18,Voluntary,Job too physical
+E200331,2025-05-18,Voluntary,Better pay
+E200493,2025-05-19,Voluntary,Better pay
+E200075,2025-05-19,Voluntary,Schedule / shift
+E201844,2025-05-19,Voluntary,Job too physical
+E202519,2025-05-21,Voluntary,Schedule / shift
+E201983,2025-05-22,Voluntary,Better pay
+E201653,2025-05-23,Voluntary,Schedule / shift
+E200799,2025-05-23,Voluntary,Schedule / shift
+E202551,2025-05-24,Voluntary,Better pay
+E202437,2025-05-24,Voluntary,Relocation
+E202087,2025-05-24,Voluntary,Other
+E202436,2025-05-25,Voluntary,Better pay
+E202323,2025-05-25,Voluntary,Better pay
+E201569,2025-05-26,Voluntary,Schedule / shift
+E202525,2025-05-26,Voluntary,Job too physical
+E201383,2025-05-26,Voluntary,Found another job
+E201936,2025-05-27,Involuntary,Attendance
+E202366,2025-05-27,Voluntary,Job too physical
+E202150,2025-05-28,Voluntary,Better pay
+E202037,2025-05-29,Voluntary,Schedule / shift
+E202350,2025-05-30,Voluntary,Better pay
+E200540,2025-05-30,Voluntary,Job too physical
+E202421,2025-05-30,Voluntary,Better pay
+E202411,2025-05-30,Voluntary,Job too physical
+E201034,2025-05-30,Voluntary,Other
+E202526,2025-05-31,Voluntary,Relocation
+E202134,2025-05-31,Voluntary,Better pay
+E202141,2025-05-31,Voluntary,Better pay
+E202482,2025-06-01,Voluntary,Better pay
+E202531,2025-06-01,Voluntary,Job too physical
+E202298,2025-06-01,Voluntary,Better pay
+E202007,2025-06-02,Voluntary,Better pay
+E200698,2025-06-02,Voluntary,Schedule / shift
+E202359,2025-06-04,Involuntary,Performance
+E202210,2025-06-04,Voluntary,Better pay
+E202468,2025-06-04,Voluntary,Better pay
+E201289,2025-06-05,Voluntary,Better pay
+E201516,2025-06-06,Voluntary,Job too physical
+E200689,2025-06-06,Voluntary,Better pay
+E200342,2025-06-06,Voluntary,Better pay
+E202205,2025-06-06,Voluntary,Better pay
+E202219,2025-06-07,Voluntary,Found another job
+E200860,2025-06-09,Voluntary,Schedule / shift
+E202069,2025-06-09,Voluntary,Better pay
+E202327,2025-06-09,Voluntary,Better pay
+E202351,2025-06-09,Voluntary,Found another job
+E200254,2025-06-11,Voluntary,Better pay
+E202227,2025-06-11,Voluntary,Relocation
+E200969,2025-06-11,Voluntary,Other
+E201725,2025-06-11,Voluntary,Better pay
+E201970,2025-06-12,Voluntary,Found another job
+E200048,2025-06-12,Voluntary,Found another job
+E202520,2025-06-14,Voluntary,Found another job
+E201978,2025-06-15,Voluntary,Found another job
+E201344,2025-06-16,Voluntary,Schedule / shift
+E202613,2025-06-17,Voluntary,Found another job
+E201993,2025-06-17,Involuntary,Safety violation
+E202374,2025-06-17,Voluntary,Found another job
+E200972,2025-06-18,Voluntary,Found another job
+E201063,2025-06-19,Voluntary,Found another job
+E201300,2025-06-19,Voluntary,Better pay
+E202459,2025-06-21,Voluntary,Relocation
+E202479,2025-06-22,Voluntary,Better pay
+E201678,2025-06-22,Voluntary,Better pay
+E202360,2025-06-24,Voluntary,Better pay
+E201309,2025-06-24,Voluntary,Schedule / shift
+E200896,2025-06-26,Voluntary,Schedule / shift
+E202248,2025-06-26,Voluntary,Other
+E202521,2025-06-26,Voluntary,Found another job
+E200516,2025-06-27,Voluntary,Better pay
+E201230,2025-06-27,Voluntary,Job too physical
+E201798,2025-06-28,Voluntary,Better pay
+E200177,2025-06-29,Voluntary,Better pay
+E201551,2025-06-29,Voluntary,Better pay
+E202273,2025-06-29,Voluntary,Found another job
+E200424,2025-06-30,Involuntary,Attendance
+E200949,2025-06-30,Voluntary,Found another job
+E202181,2025-06-30,Voluntary,Better pay
+E201103,2025-07-01,Voluntary,Job too physical
+E202190,2025-07-01,Involuntary,Policy violation
+E202735,2025-07-02,Voluntary,Schedule / shift
+E202712,2025-07-03,Voluntary,Better pay
+E200545,2025-07-04,Voluntary,Found another job
+E200572,2025-07-07,Voluntary,Found another job
+E202538,2025-07-08,Voluntary,Better pay
+E202199,2025-07-09,Voluntary,Better pay
+E200725,2025-07-09,Involuntary,Attendance
+E202602,2025-07-10,Voluntary,Schedule / shift
+E201469,2025-07-10,Voluntary,Found another job
+E202592,2025-07-10,Voluntary,Found another job
+E201756,2025-07-12,Involuntary,Policy violation
+E202693,2025-07-13,Voluntary,Other
+E201713,2025-07-14,Involuntary,Attendance
+E202713,2025-07-15,Voluntary,Found another job
+E202549,2025-07-17,Voluntary,Schedule / shift
+E201657,2025-07-17,Voluntary,Found another job
+E202047,2025-07-19,Voluntary,Found another job
+E200576,2025-07-19,Voluntary,Found another job
+E202092,2025-07-19,Voluntary,Schedule / shift
+E202535,2025-07-21,Voluntary,Schedule / shift
+E202702,2025-07-21,Voluntary,Schedule / shift
+E201123,2025-07-21,Voluntary,Schedule / shift
+E202552,2025-07-22,Voluntary,Schedule / shift
+E202629,2025-07-23,Voluntary,Job too physical
+E201187,2025-07-24,Involuntary,Attendance
+E202677,2025-07-24,Voluntary,Found another job
+E200448,2025-07-24,Voluntary,Schedule / shift
+E200918,2025-07-25,Voluntary,Other
+E202706,2025-07-26,Involuntary,Attendance
+E200585,2025-07-27,Involuntary,Performance
+E202640,2025-07-27,Voluntary,Job too physical
+E201553,2025-07-28,Voluntary,Job too physical
+E202645,2025-07-28,Voluntary,Schedule / shift
+E201693,2025-07-28,Involuntary,Attendance
+E200312,2025-07-29,Voluntary,Better pay
+E202404,2025-07-29,Voluntary,Schedule / shift
+E202042,2025-07-29,Voluntary,Found another job
+E200196,2025-07-30,Voluntary,Better pay
+E201073,2025-08-01,Voluntary,Found another job
+E200772,2025-08-01,Voluntary,Schedule / shift
+E201552,2025-08-01,Voluntary,Schedule / shift
+E202726,2025-08-03,Voluntary,Found another job
+E202802,2025-08-03,Voluntary,Schedule / shift
+E202727,2025-08-03,Voluntary,Better pay
+E202226,2025-08-04,Voluntary,Schedule / shift
+E200515,2025-08-04,Involuntary,Attendance
+E200136,2025-08-04,Voluntary,Found another job
+E202356,2025-08-04,Voluntary,Job too physical
+E202793,2025-08-05,Voluntary,Schedule / shift
+E202295,2025-08-05,Voluntary,Found another job
+E200954,2025-08-06,Voluntary,Better pay
+E201294,2025-08-07,Voluntary,Better pay
+E200314,2025-08-07,Voluntary,Schedule / shift
+E200541,2025-08-08,Retirement,Retirement
+E202783,2025-08-08,Voluntary,Schedule / shift
+E201922,2025-08-11,Voluntary,Better pay
+E201478,2025-08-11,Involuntary,Attendance
+E201944,2025-08-12,Voluntary,Schedule / shift
+E202511,2025-08-15,Involuntary,Attendance
+E201153,2025-08-16,Voluntary,Relocation
+E200391,2025-08-16,Voluntary,Found another job
+E202334,2025-08-16,Voluntary,Better pay
+E202623,2025-08-17,Voluntary,Job too physical
+E200662,2025-08-18,Voluntary,Found another job
+E200788,2025-08-19,Voluntary,Schedule / shift
+E202249,2025-08-20,Voluntary,Schedule / shift
+E202716,2025-08-24,Voluntary,Found another job
+E202824,2025-08-26,Voluntary,Found another job
+E201743,2025-08-29,Voluntary,Relocation
+E202024,2025-08-30,Voluntary,Better pay
+E201875,2025-08-30,Voluntary,Found another job
+E202077,2025-08-30,Voluntary,Relocation
+E202691,2025-08-31,Voluntary,Job too physical
+E202313,2025-09-01,Voluntary,Job too physical
+E202798,2025-09-02,Involuntary,Attendance
+E202203,2025-09-02,Involuntary,Performance
+E200785,2025-09-03,Voluntary,Better pay
+E202096,2025-09-04,Voluntary,Found another job
+E200663,2025-09-04,Voluntary,Other
+E202872,2025-09-07,Voluntary,Schedule / shift
+E200536,2025-09-07,Voluntary,Better pay
+E201298,2025-09-08,Voluntary,Job too physical
+E202722,2025-09-09,Voluntary,Better pay
+E202729,2025-09-10,Voluntary,Schedule / shift
+E202882,2025-09-10,Voluntary,Found another job
+E200779,2025-09-11,Voluntary,Better pay
+E202259,2025-09-13,Involuntary,Safety violation
+E202823,2025-09-16,Voluntary,Relocation
+E201601,2025-09-16,Voluntary,Better pay
+E200119,2025-09-16,Voluntary,Found another job
+E202707,2025-09-17,Voluntary,Schedule / shift
+E202839,2025-09-21,Involuntary,Attendance
+E202447,2025-09-21,Voluntary,Better pay
+E202806,2025-09-26,Voluntary,Job too physical
+E200767,2025-09-27,Voluntary,Schedule / shift
+E200977,2025-09-28,Involuntary,Attendance
+E201967,2025-09-28,Voluntary,Found another job
+E202718,2025-09-28,Voluntary,Job too physical
+E202220,2025-09-28,Voluntary,Found another job
+E201175,2025-09-28,Voluntary,Schedule / shift
+E201347,2025-09-29,Voluntary,Better pay
+E201092,2025-09-30,Involuntary,Performance
+E202566,2025-09-30,Involuntary,Performance
+E200428,2025-09-30,Voluntary,Found another job
+E200402,2025-10-01,Voluntary,Other
+E200658,2025-10-01,Voluntary,Schedule / shift
+E202881,2025-10-02,Voluntary,Schedule / shift
+E201246,2025-10-02,Voluntary,Schedule / shift
+E201850,2025-10-02,Voluntary,Other
+E202449,2025-10-02,Voluntary,Other
+E202140,2025-10-04,Voluntary,Found another job
+E202848,2025-10-04,Voluntary,Found another job
+E201391,2025-10-05,Voluntary,Job too physical
+E202772,2025-10-05,Voluntary,Other
+E201057,2025-10-06,Voluntary,Relocation
+E202368,2025-10-06,Voluntary,Schedule / shift
+E202215,2025-10-06,Voluntary,Better pay
+E202500,2025-10-07,Voluntary,Found another job
+E202796,2025-10-10,Voluntary,Job too physical
+E202800,2025-10-14,Voluntary,Schedule / shift
+E202856,2025-10-16,Voluntary,Schedule / shift
+E201918,2025-10-18,Voluntary,Schedule / shift
+E202875,2025-10-18,Voluntary,Relocation
+E201088,2025-10-19,Voluntary,Job too physical
+E200902,2025-10-22,Voluntary,Schedule / shift
+E202919,2025-10-22,Voluntary,Job too physical
+E200872,2025-10-22,Voluntary,Better pay
+E202876,2025-10-23,Voluntary,Better pay
+E202844,2025-10-24,Voluntary,Other
+E201310,2025-10-24,Voluntary,Job too physical
+E202792,2025-10-25,Voluntary,Better pay
+E202890,2025-10-25,Voluntary,Schedule / shift
+E201841,2025-10-25,Voluntary,Other
+E200503,2025-10-26,Voluntary,Schedule / shift
+E200548,2025-10-26,Voluntary,Better pay
+E202807,2025-10-27,Voluntary,Schedule / shift
+E202216,2025-10-27,Voluntary,Schedule / shift
+E202870,2025-10-28,Voluntary,Better pay
+E201080,2025-10-30,Voluntary,Relocation
+E201655,2025-10-30,Voluntary,Schedule / shift
+E200766,2025-10-31,Voluntary,Schedule / shift
+E201181,2025-11-02,Voluntary,Job too physical
+E201576,2025-11-03,Voluntary,Better pay
+E201143,2025-11-03,Voluntary,Better pay
+E202523,2025-11-05,Voluntary,Job too physical
+E202328,2025-11-05,Voluntary,Job too physical
+E202151,2025-11-08,Voluntary,Found another job
+E202603,2025-11-09,Voluntary,Job too physical
+E201506,2025-11-10,Voluntary,Job too physical
+E202012,2025-11-10,Voluntary,Job too physical
+E200829,2025-11-11,Voluntary,Job too physical
+E201345,2025-11-13,Voluntary,Schedule / shift
+E200952,2025-11-14,Involuntary,Performance
+E202883,2025-11-14,Voluntary,Found another job
+E201113,2025-11-17,Involuntary,Performance
+E202867,2025-11-19,Voluntary,Schedule / shift
+E201133,2025-11-20,Voluntary,Schedule / shift
+E201209,2025-11-21,Voluntary,Better pay
+E202197,2025-11-21,Voluntary,Job too physical
+E202253,2025-11-25,Involuntary,Safety violation
+E202371,2025-11-25,Voluntary,Other
+E200500,2025-11-25,Voluntary,Better pay
+E202920,2025-11-26,Voluntary,Schedule / shift
+E200489,2025-11-28,Voluntary,Better pay
+E202518,2025-11-29,Voluntary,Schedule / shift
+E200668,2025-12-01,Involuntary,Performance
+E201583,2025-12-01,Voluntary,Found another job
+E200511,2025-12-02,Voluntary,Job too physical
+E201435,2025-12-04,Voluntary,Relocation
+E200443,2025-12-05,Involuntary,Safety violation
+E202053,2025-12-06,Voluntary,Better pay
+E202782,2025-12-06,Voluntary,Job too physical
+E201142,2025-12-07,Voluntary,Schedule / shift
+E202522,2025-12-07,Voluntary,Schedule / shift
+E202171,2025-12-07,Voluntary,Schedule / shift
+E202238,2025-12-09,Involuntary,Attendance
+E202501,2025-12-12,Voluntary,Job too physical
+E202711,2025-12-13,Voluntary,Schedule / shift
+E202340,2025-12-15,Voluntary,Schedule / shift
+E202686,2025-12-17,Voluntary,Schedule / shift
+E201045,2025-12-21,Voluntary,Schedule / shift
+E202618,2025-12-21,Voluntary,Schedule / shift
+E202544,2025-12-24,Voluntary,Job too physical
+E201447,2025-12-26,Involuntary,Attendance
+E202390,2025-12-27,Voluntary,Schedule / shift
+E200760,2025-12-28,Voluntary,Schedule / shift
+E201190,2025-12-29,Voluntary,Found another job
+E201762,2025-12-29,Voluntary,Job too physical
+E202005,2025-12-31,Voluntary,Found another job
+E200644,2026-01-01,Voluntary,Schedule / shift
+E202275,2026-01-02,Voluntary,Other
+E200191,2026-01-02,Voluntary,Other
+E202887,2026-01-03,Voluntary,Better pay
+E202466,2026-01-03,Voluntary,Relocation
+E202070,2026-01-03,Voluntary,Found another job
+E202194,2026-01-05,Voluntary,Schedule / shift
+E201772,2026-01-06,Voluntary,Schedule / shift
+E200996,2026-01-07,Voluntary,Job too physical
+E200886,2026-01-07,Voluntary,Relocation
+E202290,2026-01-10,Voluntary,Better pay
+E201686,2026-01-12,Voluntary,Found another job
+E202195,2026-01-14,Voluntary,Schedule / shift
+E200978,2026-01-17,Voluntary,Relocation
+E202933,2026-01-18,Voluntary,Job too physical
+E200414,2026-01-18,Voluntary,Found another job
+E201606,2026-01-19,Involuntary,Safety violation
+E200810,2026-01-20,Voluntary,Better pay
+E202433,2026-01-22,Voluntary,Job too physical
+E202600,2026-01-23,Voluntary,Better pay
+E202583,2026-01-24,Voluntary,Better pay
+E201343,2026-01-24,Voluntary,Better pay
+E201406,2026-01-26,Voluntary,Job too physical
+E202799,2026-01-28,Voluntary,Found another job
+E201955,2026-01-28,Voluntary,Other
+E202537,2026-01-29,Voluntary,Schedule / shift
+E880002,2026-01-30,Voluntary,Other
+E200672,2026-02-02,Voluntary,Other
+E202416,2026-02-03,Voluntary,Found another job
+E202524,2026-02-03,Voluntary,Job too physical
+E200911,2026-02-04,Involuntary,Attendance
+E202536,2026-02-07,Voluntary,Schedule / shift
+E201097,2026-02-07,Voluntary,Job too physical
+E202752,2026-02-09,Voluntary,Better pay
+E201346,2026-02-09,Voluntary,Found another job
+E202730,2026-02-09,Involuntary,Policy violation
+E200713,2026-02-09,Voluntary,Schedule / shift
+E201587,2026-02-11,Voluntary,Schedule / shift
+E202761,2026-02-13,Voluntary,Relocation
+E202440,2026-02-13,Voluntary,Schedule / shift
+E201731,2026-02-13,Voluntary,Schedule / shift
+E202372,2026-02-14,Voluntary,Schedule / shift
+E202616,2026-02-14,Involuntary,Attendance
+E202930,2026-02-16,Voluntary,Found another job
+E202188,2026-02-16,Voluntary,Found another job
+E201823,2026-02-17,Voluntary,Job too physical
+E202187,2026-02-19,Voluntary,Found another job
+E200837,2026-02-20,Voluntary,Job too physical
+E201172,2026-02-23,Involuntary,Safety violation
+E202914,2026-02-24,Voluntary,Job too physical
+E201611,2026-02-25,Voluntary,Schedule / shift
+E200741,2026-02-26,Voluntary,Job too physical
+E202389,2026-03-01,Voluntary,Found another job
+E201981,2026-03-01,Voluntary,Schedule / shift
+E200858,2026-03-02,Voluntary,Schedule / shift
+E202506,2026-03-02,Involuntary,Performance
+E200596,2026-03-02,Voluntary,Job too physical
+E202724,2026-03-02,Voluntary,Better pay
+E201952,2026-03-03,Involuntary,Attendance
+E202246,2026-03-05,Voluntary,Schedule / shift
+E200965,2026-03-05,Voluntary,Schedule / shift
+E200182,2026-03-05,Voluntary,Found another job
+E202068,2026-03-06,Voluntary,Job too physical
+E200592,2026-03-07,Involuntary,Attendance
+E202473,2026-03-08,Involuntary,Attendance
+E201078,2026-03-09,Voluntary,Better pay
+E200953,2026-03-11,Voluntary,Relocation
+E200390,2026-03-12,Voluntary,Better pay
+E202541,2026-03-13,Voluntary,Relocation
+E202483,2026-03-13,Voluntary,Found another job
+E201856,2026-03-14,Voluntary,Better pay
+E202830,2026-03-14,Voluntary,Job too physical
+E200619,2026-03-14,Voluntary,Other
+E201588,2026-03-15,Voluntary,Better pay
+E200935,2026-03-19,Voluntary,Schedule / shift
+E202953,2026-03-20,Voluntary,Better pay
+E200435,2026-03-20,Voluntary,Found another job
+E202928,2026-03-22,Voluntary,Relocation
+E201950,2026-03-23,Voluntary,Better pay
+E202861,2026-03-24,Voluntary,Job too physical
+E202430,2026-03-26,Voluntary,Job too physical
+E201453,2026-03-26,Voluntary,Better pay
+E200602,2026-03-27,Voluntary,Relocation
+E202230,2026-03-27,Voluntary,Job too physical
+E200890,2026-03-28,Voluntary,Job too physical
+E200812,2026-03-28,Voluntary,Schedule / shift
+E202376,2026-03-28,Voluntary,Found another job
+E202725,2026-03-28,Voluntary,Better pay
+E201789,2026-03-28,Voluntary,Job too physical
+E202785,2026-03-29,Involuntary,Attendance
+E202516,2026-03-29,Voluntary,Found another job
+E202571,2026-03-29,Involuntary,Attendance
+E202852,2026-03-31,Voluntary,Better pay
+E201255,2026-03-31,Voluntary,Relocation
+E202809,2026-04-01,Involuntary,Attendance
+E201804,2026-04-01,Voluntary,Found another job
+E202472,2026-04-02,Voluntary,Found another job
+E202400,2026-04-02,Voluntary,Better pay
+E200409,2026-04-03,Involuntary,Policy violation
+E202834,2026-04-04,Involuntary,Attendance
+E201543,2026-04-07,Voluntary,Schedule / shift
+E201023,2026-04-07,Retirement,Retirement
+E200140,2026-04-08,Involuntary,Safety violation
+E200410,2026-04-12,Voluntary,Other
+E201527,2026-04-12,Voluntary,Schedule / shift
+E202901,2026-04-12,Voluntary,Better pay
+E200728,2026-04-12,Voluntary,Schedule / shift
+E200584,2026-04-14,Voluntary,Schedule / shift
+E201951,2026-04-15,Voluntary,Job too physical
+E202289,2026-04-15,Voluntary,Schedule / shift
+E202978,2026-04-15,Voluntary,Schedule / shift
+E202927,2026-04-16,Voluntary,Relocation
+E202980,2026-04-16,Voluntary,Better pay
+E202038,2026-04-17,Voluntary,Schedule / shift
+E201542,2026-04-19,Voluntary,Other
+E202684,2026-04-19,Voluntary,Schedule / shift
+E200590,2026-04-20,Voluntary,Other
+E202470,2026-04-21,Involuntary,Performance
+E200851,2026-04-21,Voluntary,Schedule / shift
+E200991,2026-04-22,Voluntary,Relocation
+E201490,2026-04-25,Voluntary,Schedule / shift
+E202294,2026-04-27,Voluntary,Relocation
+E201921,2026-04-27,Voluntary,Other
+E200992,2026-04-27,Involuntary,Attendance
+E200875,2026-04-28,Voluntary,Schedule / shift
+E202982,2026-04-28,Voluntary,Schedule / shift
+E202857,2026-04-29,Voluntary,Schedule / shift
+E200554,2026-04-29,Voluntary,Found another job
+E202165,2026-04-30,Voluntary,Found another job
+E202740,2026-05-01,Voluntary,Job too physical
+E200847,2026-05-01,Involuntary,Policy violation
+E201214,2026-05-06,Voluntary,Better pay
+E202944,2026-05-06,Voluntary,Found another job
+E200561,2026-05-07,Voluntary,Schedule / shift
+E201077,2026-05-08,Voluntary,Schedule / shift
+E202086,2026-05-09,Voluntary,Other
+E202330,2026-05-10,Voluntary,Better pay
+E200778,2026-05-11,Voluntary,Job too physical
+E201876,2026-05-12,Voluntary,Schedule / shift
+E202154,2026-05-13,Voluntary,Found another job
+E203049,2026-05-14,Voluntary,Other
+E200740,2026-05-14,Voluntary,Job too physical
+E202948,2026-05-14,Voluntary,Better pay
+E202704,2026-05-15,Voluntary,Better pay
+E202630,2026-05-16,Voluntary,Job too physical
+E203058,2026-05-18,Voluntary,Relocation
+E201475,2026-05-19,Voluntary,Found another job
+E202116,2026-05-21,Involuntary,Safety violation
+E202794,2026-05-21,Voluntary,Schedule / shift
+E202115,2026-05-22,Voluntary,Found another job
+E203056,2026-05-24,Voluntary,Other
+E202286,2026-05-26,Involuntary,Performance
+E202174,2026-05-27,Voluntary,Schedule / shift
+E201269,2026-05-27,Voluntary,Job too physical
+E202446,2026-05-28,Voluntary,Found another job
+E202813,2026-05-30,Voluntary,Other
+E202543,2026-05-31,Voluntary,Better pay
+E201943,2026-06-01,Voluntary,Better pay
+E200744,2026-06-01,Voluntary,Better pay
+E202573,2026-06-02,Involuntary,Attendance
+E201726,2026-06-02,Voluntary,Job too physical
+E200446,2026-06-03,Voluntary,Relocation
+E201137,2026-06-03,Voluntary,Schedule / shift
+E200852,2026-06-03,Involuntary,Attendance
+E200661,2026-06-04,Voluntary,Better pay
+E202622,2026-06-05,Voluntary,Other
+E200442,2026-06-05,Voluntary,Found another job
+E201248,2026-06-05,Involuntary,Policy violation
+E200053,2026-06-07,Voluntary,Schedule / shift
+E201932,2026-06-07,Voluntary,Job too physical
+E203045,2026-06-08,Voluntary,Schedule / shift
+E203095,2026-06-08,Voluntary,Job too physical
+E201930,2026-06-09,Voluntary,Better pay
+E200454,2026-06-09,Voluntary,Found another job
+E200893,2026-06-12,Involuntary,Safety violation
+E200775,2026-06-14,Involuntary,Attendance
+E202423,2026-06-17,Voluntary,Job too physical
+E203149,2026-06-19,Voluntary,Schedule / shift
+E202548,2026-06-19,Voluntary,Schedule / shift
+E202504,2026-06-21,Voluntary,Schedule / shift
+E200544,2026-06-21,Voluntary,Other
+E201316,2026-06-22,Voluntary,Schedule / shift
+E202889,2026-06-24,Involuntary,Policy violation
+E203046,2026-06-24,Voluntary,Schedule / shift
+E203055,2026-06-24,Voluntary,Found another job
+E202987,2026-06-25,Voluntary,Better pay
+E202476,2026-06-26,Voluntary,Better pay
+E200622,2026-06-27,Voluntary,Better pay
+E203146,2026-06-29,Voluntary,Schedule / shift
+E203136,2026-07-01,Voluntary,Found another job
+E201821,2026-07-02,Voluntary,Found another job
+E200579,2026-07-02,Voluntary,Better pay
+E202620,2026-07-02,Involuntary,Safety violation
+E200688,2026-07-02,Involuntary,Attendance
+E203239,2026-07-03,Voluntary,Schedule / shift
+E202133,2026-07-03,Voluntary,Schedule / shift
+E200506,2026-07-03,Voluntary,Schedule / shift
+E203234,2026-07-04,Voluntary,Job too physical
+E201782,2026-07-04,Voluntary,Found another job
+E201968,2026-07-05,Voluntary,Found another job
+E203112,2026-07-10,Voluntary,Relocation
+E203121,2026-07-10,Voluntary,Job too physical
+E203194,2026-07-10,Voluntary,Job too physical
+E202845,2026-07-11,Voluntary,Found another job
+E202631,2026-07-12,Voluntary,Found another job
+E200577,2026-07-12,Voluntary,Job too physical
+E201139,2026-07-12,Voluntary,Schedule / shift
+E202605,2026-07-14,Voluntary,Relocation
+E203010,2026-07-14,Voluntary,Other
+E201291,2026-07-15,Involuntary,Policy violation
+E201270,2026-07-15,Involuntary,Performance
+E202751,2026-07-16,Voluntary,Better pay
+E200971,2026-07-16,Voluntary,Schedule / shift
+E202692,2026-07-16,Voluntary,Found another job
+E203173,2026-07-16,Voluntary,Better pay
+E201275,2026-07-17,Voluntary,Found another job
+E202610,2026-07-17,Voluntary,Schedule / shift
+E202703,2026-07-18,Voluntary,Schedule / shift
+E203114,2026-07-18,Voluntary,Better pay
+E203214,2026-07-19,Voluntary,Better pay
+E202996,2026-07-19,Voluntary,Schedule / shift
+E203150,2026-07-20,Voluntary,Schedule / shift
+E202851,2026-07-21,Voluntary,Found another job
+E203188,2026-07-21,Voluntary,Found another job
+E203209,2026-07-22,Voluntary,Schedule / shift
+E203048,2026-07-22,Voluntary,Schedule / shift
+E202559,2026-07-23,Voluntary,Relocation
+E202319,2026-07-23,Voluntary,Found another job
+E200031,2026-07-25,Voluntary,Other
+E203227,2026-07-26,Voluntary,Better pay
+E203059,2026-07-27,Voluntary,Job too physical
+E201503,2026-07-27,Voluntary,Schedule / shift
+E200898,2026-07-28,Involuntary,Performance
+E203078,2026-07-30,Voluntary,Found another job
+E202443,2026-07-30,Voluntary,Found another job
+E201007,2026-07-31,Involuntary,Attendance
+E203099,2026-08-01,Voluntary,Relocation
+E203139,2026-08-02,Voluntary,Job too physical
+E201440,2026-08-03,Voluntary,Better pay
+E201158,2026-08-04,Voluntary,Better pay
+E203012,2026-08-04,Voluntary,Found another job
+E200695,2026-08-05,Voluntary,Job too physical
+E202590,2026-08-06,Voluntary,Better pay
+E200975,2026-08-07,Voluntary,Other
+E202442,2026-08-08,Voluntary,Relocation
+E200862,2026-08-08,Voluntary,Schedule / shift
+E203202,2026-08-09,Voluntary,Job too physical
+E200983,2026-08-10,Voluntary,Job too physical
+E203232,2026-08-12,Voluntary,Schedule / shift
+E201885,2026-08-13,Voluntary,Better pay
+E203228,2026-08-14,Voluntary,Better pay
+E201830,2026-08-15,Voluntary,Better pay
+E201755,2026-08-15,Voluntary,Job too physical
+E203184,2026-08-15,Voluntary,Job too physical
+E202574,2026-08-15,Voluntary,Found another job
+E203284,2026-08-16,Voluntary,Relocation
+E201578,2026-08-16,Voluntary,Schedule / shift
+E202681,2026-08-17,Voluntary,Other
+E202066,2026-08-18,Voluntary,Schedule / shift
+E203275,2026-08-18,Voluntary,Schedule / shift
+E203196,2026-08-19,Voluntary,Schedule / shift
+E202441,2026-08-20,Voluntary,Schedule / shift
+E202419,2026-08-21,Involuntary,Attendance
+E203071,2026-08-22,Voluntary,Schedule / shift
+E201956,2026-08-23,Voluntary,Schedule / shift
+E201505,2026-08-23,Voluntary,Job too physical
+E201157,2026-08-23,Voluntary,Found another job
+E203005,2026-08-26,Voluntary,Other
+E203148,2026-08-26,Voluntary,Better pay
+E203273,2026-08-26,Voluntary,Other
+E201636,2026-08-27,Voluntary,Job too physical
+E880006,2026-08-27,Voluntary,Other
+E202553,2026-08-29,Voluntary,Job too physical
+E202145,2026-08-29,Voluntary,Found another job
+E202540,2026-08-31,Voluntary,Relocation
+E200501,2026-08-31,Voluntary,Schedule / shift
+E203233,2026-09-01,Voluntary,Job too physical
+E201532,2026-09-01,Voluntary,Schedule / shift
+E203296,2026-09-02,Voluntary,Other
+E202938,2026-09-03,Voluntary,Schedule / shift
+E203231,2026-09-03,Voluntary,Found another job
+E200527,2026-09-03,Voluntary,Schedule / shift
+E203339,2026-09-03,Voluntary,Schedule / shift
+E203104,2026-09-04,Voluntary,Found another job
+E200809,2026-09-04,Voluntary,Schedule / shift
+E200639,2026-09-04,Involuntary,Attendance
+E203325,2026-09-06,Voluntary,Relocation
+E201452,2026-09-06,Involuntary,Performance
+E201510,2026-09-07,Involuntary,Attendance
+E200578,2026-09-08,Voluntary,Job too physical
+E202507,2026-09-08,Voluntary,Schedule / shift
+E203190,2026-09-08,Voluntary,Found another job
+E201793,2026-09-09,Voluntary,Schedule / shift
+E202989,2026-09-09,Voluntary,Schedule / shift
+E203198,2026-09-10,Voluntary,Schedule / shift
+E203200,2026-09-10,Involuntary,Performance
+E203007,2026-09-11,Voluntary,Schedule / shift
+E200742,2026-09-11,Involuntary,Safety violation
+E202485,2026-09-11,Involuntary,Safety violation
+E202488,2026-09-11,Voluntary,Job too physical
+E203277,2026-09-11,Voluntary,Schedule / shift
+E202162,2026-09-13,Voluntary,Schedule / shift
+E200756,2026-09-13,Involuntary,Performance
+E203272,2026-09-13,Voluntary,Job too physical
+E202102,2026-09-14,Voluntary,Schedule / shift
+E201055,2026-09-14,Voluntary,Better pay
+E203030,2026-09-14,Voluntary,Schedule / shift
+E202425,2026-09-16,Voluntary,Found another job
+E201924,2026-09-17,Involuntary,Performance
+E201517,2026-09-18,Voluntary,Job too physical
+E200458,2026-09-18,Involuntary,Policy violation
+E202768,2026-09-20,Voluntary,Better pay
+E200158,2026-09-20,Voluntary,Found another job
+E203177,2026-09-21,Voluntary,Schedule / shift
+E202985,2026-09-22,Voluntary,Schedule / shift
+E203054,2026-09-23,Voluntary,Schedule / shift
+E202147,2026-09-26,Voluntary,Better pay
+E202383,2026-09-26,Voluntary,Schedule / shift
+E202780,2026-09-28,Voluntary,Schedule / shift
+E202779,2026-09-29,Involuntary,Attendance
+E201862,2026-09-29,Involuntary,Attendance
+E202582,2026-09-30,Voluntary,Job too physical
+E203212,2026-09-30,Voluntary,Relocation
+E201769,2026-10-01,Voluntary,Job too physical
+E200587,2026-10-01,Voluntary,Relocation
+E203079,2026-10-02,Voluntary,Schedule / shift
+E201463,2026-10-03,Involuntary,Attendance
+E202001,2026-10-05,Voluntary,Schedule / shift
+E202532,2026-10-07,Involuntary,Safety violation
+E202671,2026-10-07,Voluntary,Found another job
+E203278,2026-10-08,Voluntary,Schedule / shift
+E201147,2026-10-08,Voluntary,Found another job
+E202596,2026-10-09,Involuntary,Attendance
+E202015,2026-10-09,Voluntary,Better pay
+E200834,2026-10-10,Voluntary,Relocation
+E202902,2026-10-10,Voluntary,Schedule / shift
+E200421,2026-10-11,Voluntary,Found another job
+E202741,2026-10-11,Involuntary,Attendance
+E201099,2026-10-11,Retirement,Retirement
+E200720,2026-10-12,Voluntary,Schedule / shift
+E201863,2026-10-12,Voluntary,Better pay
+E200445,2026-10-15,Voluntary,Job too physical
+E202568,2026-10-16,Involuntary,Performance
+E203282,2026-10-17,Voluntary,Job too physical
+E201873,2026-10-18,Involuntary,Policy violation
+E202659,2026-10-18,Voluntary,Better pay
+E202803,2026-10-18,Voluntary,Better pay
+E200679,2026-10-19,Voluntary,Job too physical
+E203028,2026-10-20,Voluntary,Found another job
+E202804,2026-10-22,Voluntary,Schedule / shift
+E202017,2026-10-22,Voluntary,Schedule / shift
+E201694,2026-10-23,Voluntary,Found another job
+E200057,2026-10-24,Voluntary,Better pay
+E200486,2026-10-24,Voluntary,Better pay
+E202222,2026-10-24,Involuntary,Performance
+E200449,2026-10-24,Voluntary,Job too physical
+E203317,2026-10-24,Voluntary,Better pay
+E203110,2026-10-25,Voluntary,Schedule / shift
+E202569,2026-10-26,Voluntary,Found another job
+E201810,2026-10-26,Involuntary,Attendance
+E200974,2026-10-26,Voluntary,Better pay
+E202318,2026-10-31,Voluntary,Better pay
+E201068,2026-10-31,Voluntary,Job too physical
+E202979,2026-10-31,Voluntary,Better pay
